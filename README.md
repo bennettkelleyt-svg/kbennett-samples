@@ -12,7 +12,7 @@ I’ve also developed multiple online help systems and knowledge bases that live
 ## More About My Work and tools
 My tools and experience extend beyond what’s shown here, including advanced proficiency in using MadCap Flare for creating online help and knowledge bases.
 
-For more insight about how I work  and collaborate with teams, as well as the kind of content I’m known for delivering, visit the [Recommendations]([https://www.google.com](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0)) section of my [LinkedIn profile]https://www.linkedin.com/in/kelley-bennett-742755b/.
+For more insight about how I work  and collaborate with teams, as well as the kind of content I’m known for delivering, visit the [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/).
 
 Reach Out
-If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at bennett.kelley@gmail.com or 941‑320‑3980.
+If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
