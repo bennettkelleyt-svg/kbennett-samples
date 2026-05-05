@@ -1,4 +1,35 @@
 # Intranet Articles
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
-Online Help – What Is It Good For?
+<details>
+  <summary>Online Help – What Is It Good For?/summary>
+It’s happened to all of us from time-to-time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
+
+## What is Online Help?
+Online help (OLH) is an organized, topic-based information system that provides guidance about how or when to use an application, portal, or platform. You’ve most likely seen it in Microsoft, Atlassian, or other products. 
+While OLH is helpful, it’s sometimes difficult to quickly find information. That’s where a super-charged help system comes in handy: context-sensitive help.
+
+## What is Context-sensitive Help?
+Context-sensitive help (CSH) enhances ordinary online documentation by providing a topic for each screen within the application, tool, or portal. When you click the help icon (e.g.,  ), a window displays information that corresponds to the currently displayed application screen.
+
+## Why are We Telling You about CSH?
+CSH implementation is vital and planned for the Mission Control (MC) portal. While the MC portal is intuitive, there may be times when an MC user needs additional assistance. For instance, a hub operator looks at the map but doesn’t understand what the map icons mean, or a mission manager forgets how to find missions with a “Critical” status. From the map or the missions list, clicking   opens a help window providing an organized list of information about the screen being displayed.
+From the list, the user can quickly find the information they need and click on it to display details.  All of this appears in a single window on top of the application. The user can also search for information from any page within the help system.
+
+## What Value does CSH Offer?
+CSH offers many benefits for both users and internal teams:
+
+### For Our Users	
+- Access from any place and any device–a single location for all the information a user needs.
+- Rich content that provides readers with clear guidelines, such as screenshots, user interface element images, and diagrams.
+- Easy navigation using a variety of elements, such as a search field, table of contents, and breadcrumbs.
+
+### For Our Teams
+- A better adoption and user experience, increasing client confidence, and potentially increasing earnings.
+- Reduction in assistance requests, leading to lower product operational costs.
+- Utilization of the latest technology to produce a system that reduces development costs and streamlines content delivery.
+
+## What is the Status of Online Help for Our Product?
+Currently, the portal doesn’t include online help. However, this feature implementation is planned for a future release. In the meantime, via VPN, you can access the existing online help system.
+
+</details>
