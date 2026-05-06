@@ -30,9 +30,6 @@ CSH offers many benefits for both users and our organization:
 ## What is the Status of Online Help for Our Product?
 Currently, the portal doesn’t include online help. However, this feature implementation is planned for a future release. In the meantime, via VPN, you can access the existing online help system.
 
-</details>
-
-<details>
 <summary><strong><span style="font-size: 1.4rem;; color:#0070C0; font-weight: 700;">The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
   
 As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
