@@ -1,1 +1,7 @@
-title: ""
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-seo-tag
+
+title: Writing Portfolio of Kelley Bennett
+description: Portfolio samples
