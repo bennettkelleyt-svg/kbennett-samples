@@ -33,7 +33,8 @@ Currently, the portal doesn’t include online help. However, this feature imple
 </details>
 
 <details>
-<strong><summary>The Not-so-Silent Suffering of a Word Nerd</strong></summary>
+<summary><strong><span style="font-size: 1.4rem;; color:#0070C0; font-weight: 700;">The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
+  
 As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
 I often hear myself, in one‑sided conversations, correcting people I hear on the radio or TV. At times, I even shout my corrections at them; at other times, I’m simply speechless and rolling my eyes.
 Misused words and phrases are communicated all the time. Many people don’t realize that such errors distract from the message they’re trying to convey. At Torc, straightforward communication is essential to meeting our goals, and grammar is one important element of that communication.
