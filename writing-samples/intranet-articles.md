@@ -1,3 +1,8 @@
+---
+title: Best Practices and a Playbook 
+parent: Writing Samples
+nav_order: 5
+---
 # Intranet Articles
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
