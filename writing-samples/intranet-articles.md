@@ -1,5 +1,5 @@
 ---
-title: Best Practices and a Playbook 
+title: Intranet Articles 
 parent: Writing Samples
 nav_order: 5
 ---
