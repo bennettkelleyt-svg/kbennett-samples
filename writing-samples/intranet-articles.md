@@ -7,7 +7,7 @@ nav_order: 5
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
 <details>
-  <summary><strong><span style="color:#c0392b; font-weight:600;">Online Help – What Is It Good For?</span></strong></summary>
+  <summary><strong><span style="color:#0070C0; font-weight:1100;">Online Help – What Is It Good For?</span></strong></summary>
 
 It’s happened to all of us from time-to-time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
 
