@@ -7,7 +7,8 @@ nav_order: 5
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
 <details>
-  <summary>Online Help – What Is It Good For?/summary>
+  <summary><strong>Online Help – What Is It Good For?</strong></summary>
+
 It’s happened to all of us from time-to-time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
 
 ## What is Online Help?
@@ -32,7 +33,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
 </details>
 
 <details>
-  <summary>The Not-so-Silent Suffering of a Word Nerd/summary>
+<strong><summary>The Not-so-Silent Suffering of a Word Nerd</strong></summary>
 As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
 I often hear myself, in one‑sided conversations, correcting people I hear on the radio or TV. At times, I even shout my corrections at them; at other times, I’m simply speechless and rolling my eyes.
 Misused words and phrases are communicated all the time. Many people don’t realize that such errors distract from the message they’re trying to convey. At Torc, straightforward communication is essential to meeting our goals, and grammar is one important element of that communication.
