@@ -1,6 +1,6 @@
 ---
 title: Instructional Design Editing Examples 
 parent: Writing Samples
-nav_order: 6
+nav_order: 9
 ---
 
