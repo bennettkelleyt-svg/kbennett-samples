@@ -1,7 +1,7 @@
 ---
 title: Case Studies 
 parent: Writing Samples
-nav_order: 7
+nav_order: 4
 ---
 # Case Studies
 These case studies were written for the company website to give potential customers clear examples of the challenges clients faced and the product solutions used to support their needs.
