@@ -3,8 +3,19 @@ title: Case Studies
 parent: Writing Samples
 nav_order: 4
 ---
+
+
 # Case Studies
 These case studies were written for the company website to give potential customers clear examples of the challenges clients faced and the product solutions used to support their needs.
+
+
+<p><span style="color:#7F7F7F; font-weight:700;">Click on the case study titles below to display the corresponding content.</span></p>
+
+<div style="height: .9rem;"></div>
+
+<details markdown="1">
+  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">From Paper Piles to Productivity</span></strong></summary>
+
 
 <details>
   <summary>From Paper Piles to Productivity/summary>
