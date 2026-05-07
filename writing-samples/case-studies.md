@@ -122,7 +122,7 @@ Founded in 1957 as a not for profit organization, Goodwill Industries of Middle 
 Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. 
 Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
 
-<p style="background-color:#D3FDF9; padding:10px; border-radius:6px; font-weight:700;">
+<p style="background-color:#156082; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
 Results at a Glance 
   
 25% — Reduction in time spent on paperwork 70% — Reduction in interdepartmental inquiries $100,000 — Annual savings
