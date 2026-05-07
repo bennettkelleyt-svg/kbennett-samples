@@ -19,14 +19,14 @@ These case studies were written for the company website to give potential custom
 
 <details>
   <summary>From Paper Piles to Productivity/summary>
-![](images/ymca1.png)
+![Online Help diagram](/kbennett-samples/images/ymca1.png)
 
-## The Challenge
+### The Challenge
 As a part of the largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
 
 Any non-profit is already challenged with providing services with limited resources and a minimal budget, but the Tampa YMCA had the added complication of a lack of storage and access to their own documentation. With nearly an entire floor of their building filled with filing cabinets full of old documentation ready for archiving, as well as active records accessed daily, there was literally no room for more documents or new staff needed to run the growing business. In addition, existing YMCA staff members were spending too much time trying to find and organize the documents and information necessary to perform their daily jobs.
 
-## The Solution
+### The Solution
 Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented to streamline the storage and retrieval of their large volume of documents received and used by all 18 of their locations: giving the staff an easy way to organize and instantly access information. However, the configuration was then customized and expanded with workflow automation that includes the following:
 
 - Risk management to ensure nothing is missed: every document gets reviewed and approved.
@@ -34,11 +34,14 @@ Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented t
 - Membership application processing.
 - Human Resources automation designed for the management of documents such as I9s.
 
-## The Result
+### The Result
 For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow Enterprise eliminates excess time spent on document management (such as entering and finding information), prevents data errors, and significantly reduces administrative overhead costs: freeing up time and funds that can be used for the benefit of the Tampa area communities this non-profit serves.
 
-![](images/ymca2.png)
+![Online Help diagram](/kbennett-samples/images/ymca2.png)
+
+
 </details>
+
 
 <details>
   <summary>Even Security Leaders Benefit From Modern Workflow</summary>
