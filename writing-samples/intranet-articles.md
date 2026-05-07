@@ -63,7 +63,7 @@ Misused words and phrases are communicated all the time. Many people don’t rea
 For this article, I thought it might be helpful, and maybe even a little fun, to share some examples of commonly misused or misunderstood words and phrases. Below, I’ve outlined several grammatical errors I frequently encounter. Take a look; you may hear or read them often, too. 
 
 
-![Grammar example 1](/kbennett-samples/images/grammar4.png)
+![Grammar example 1](/kbennett-samples/images/grammar5.png)
 
 
 These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them — you might be surprised at how frequently they occur.
