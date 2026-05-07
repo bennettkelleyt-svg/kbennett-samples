@@ -54,7 +54,7 @@ As the world’s largest provider of integrated security awareness training and 
 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
      alt="PaperPiles"
-     style="float:left; width:350px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 #### **The Challenge**
 
@@ -82,7 +82,7 @@ After months of searching for the answer that would resolve and meet the challen
 
 <img src="/kbennett-samples/images/KNOWb4-AFTER.png"
      alt="happy workers"
-     style="float:right; width:375px; margin:0 0 1rem 1rem; border-radius:6px;" />
+     style="float:right; width:350px; margin:0 0 1rem 1rem; border-radius:6px;" />
 
 #### **The Result**
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
