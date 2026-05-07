@@ -31,6 +31,10 @@ Any non-profit is already challenged with providing services with limited resour
 
 Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented to streamline the storage and retrieval of their large volume of documents received and used by all 18 of their locations: giving the staff an easy way to organize and instantly access information. However, the configuration was then customized and expanded with workflow automation that includes the following:
 
+<img src="/kbennett-samples/images/ymca2.png"
+     alt="happy workers"
+     style="float:right; width:260px; margin:0 0 1rem 1rem; border-radius:6px;" />
+
 - Risk management to ensure nothing is missed: every document gets reviewed and approved.
 - Accounting automation to make sure items such as journal entries, invoices, checks, statements, and deposits are entered accurately, reviewed, and approved for processing, as well as storage.
 - Membership application processing.
