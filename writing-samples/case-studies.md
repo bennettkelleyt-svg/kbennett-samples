@@ -14,7 +14,7 @@ These case studies were written for the company website to give potential custom
 <div style="height: .9rem;"></div>
 
 <details markdown="1">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">From Paper Piles to Productivity</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">From Paper Piles to Productivity</span></strong></summary>
 
 ![PaperPiles](/kbennett-samples/images/ymca1.png)
 
@@ -45,7 +45,7 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 
 
 <details markdown="1" style="margin-top: 1rem;">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
 
   
 ### The Challenge
@@ -111,7 +111,7 @@ Founder and CEO
 
 
 <details markdown="1" style="margin-top: 1rem;">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Good Will Thrives with Process Improvements</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Good Will Thrives with Process Improvements</span></strong></summary>
 
   
 Founded in 1957 as a not for profit organization, Goodwill Industries of Middle Tennessee (GIMT) sells donated goods to provide employment opportunities for individuals with disabilities or barriers to finding and maintaining work. The organization operates more than 300,000 square feet of retail sales floor space across 25+ locations, 70 donation sites, and 15 employment and training centers.
