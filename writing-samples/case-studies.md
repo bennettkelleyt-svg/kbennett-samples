@@ -16,7 +16,7 @@ These case studies were written for the company website to give potential custom
 <details markdown="1">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Tampa YMCA: From Paper Piles to Productivity</span></strong></summary>
 
-<img src="/kbennett-samples/images/ymca3.png"
+<img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
      style="float:left; width:260px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
@@ -36,7 +36,7 @@ Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented t
 - Membership application processing.
 - Human Resources automation designed for the management of documents such as I9s.
 
-<img src="/kbennett-samples/images/ymca4.png"
+<img src="/kbennett-samples/images/ymca6.png"
      alt="happy workers"
      style="float:right; width:260px; margin:0 0 1rem 1rem; border-radius:6px;" />
 
