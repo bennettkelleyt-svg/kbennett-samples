@@ -24,7 +24,7 @@ As a part of the largest and oldest service organization in the US, the Tampa YM
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
-     style="float:left; width:209px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:195px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 Any non-profit is already challenged with providing services with limited resources and a minimal budget, but the Tampa YMCA had the added complication of a lack of storage and access to their own documentation. With nearly an entire floor of their building filled with filing cabinets full of old documentation ready for archiving, as well as active records accessed daily, there was literally no room for more documents or new staff needed to run the growing business. In addition, existing YMCA staff members were spending too much time trying to find and organize the documents and information necessary to perform their daily jobs.
 
