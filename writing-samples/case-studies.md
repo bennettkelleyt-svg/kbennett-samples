@@ -44,7 +44,7 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 </details>
 
 
-<details markdown="1" style="margin-top: 1.4rem;">
+<details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
 
   
@@ -110,7 +110,7 @@ Founder and CEO
 </details>
 
 
-<details markdown="1" style="margin-top: 1.4rem;">
+<details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Good Will Thrives with Process Improvements</span></strong></summary>
 
   
