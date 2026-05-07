@@ -40,7 +40,7 @@ From the map or the missions list, clicking the help icon opens a help window pr
 
 CSH offers many benefits for both users and the organization.
 
-![Online Help diagram](/kbennett-samples/images/OLH5.png)
+![Online Help diagram](/kbennett-samples/images/OLH7.png)
 
 
 ### What Is the Status of Online Help for Our Product?
