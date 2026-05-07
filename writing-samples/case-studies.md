@@ -20,7 +20,7 @@ As a part of the largest and oldest service organization in the US, the Tampa YM
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
-     style="float:left; width:195px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 #### **The Challenge**
 
