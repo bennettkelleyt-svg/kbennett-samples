@@ -53,7 +53,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
 
 </details>
 
-<div style="height: 1.4rem;"></div>
+<div style="height: 1rem;"></div>
 
 <details markdown="1">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
