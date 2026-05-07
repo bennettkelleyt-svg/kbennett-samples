@@ -104,9 +104,8 @@ Founder and CEO
 </details>
 
 
-  <details markdown="1">
- 
-    <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Good Will Thrives with Process Improvements</span></strong></summary>
+<details markdown="1">
+  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Good Will Thrives with Process Improvements</span></strong></summary>
 
   
 Founded in 1957 as a not for profit organization, Goodwill Industries of Middle Tennessee (GIMT) sells donated goods to provide employment opportunities for individuals with disabilities or barriers to finding and maintaining work. The organization operates more than 300,000 square feet of retail sales floor space across 25+ locations, 70 donation sites, and 15 employment and training centers.
