@@ -65,8 +65,7 @@ As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it 
 - No metrics or visibility/transparency
 
   
-Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. 
-KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
+Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
 
 
 ### The Solution
@@ -81,17 +80,22 @@ All of the information the KnowBe4 staff needs is now conveniently maintained in
 
 Overall, as KnowBe4 expands, it now has a Workflow Automation system that grows with them to help keep their processes running smoothly, efficiently, and accurately.  
 
-<p style="background-color:#222; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
+<p style="background-color:#156082; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
 
 "If you stick with old systems that don’t allow you to expand and scale, you are going to have negative consequences.”
+
 Stu Sjouwerman
 Founder and CEO
 
+
 “It was really empowering to start getting these metrics so that we can get eyes on our system, get eyes on our areas, be able to see where there might be bottlenecks in our work flow, and start working to smooth things out.”
+
 Alanna Rubin
 Director of Operations
 
+
 "The three rules of KnowBe4 culture are 'Do it right the first time, do it fast, and have fun.'
+
 Stu Sjouwerman
 Founder and CEO
 
@@ -110,7 +114,7 @@ Founded in 1957 as a not for profit organization, Goodwill Industries of Middle 
 Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. 
 Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
 
-<p style="background-color:#222; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
+<p style="background-color:#9BD9EF; padding:10px; border-radius:6px; font-weight:700;">
 Results at a Glance 
   
 25% — Reduction in time spent on paperwork 70% — Reduction in interdepartmental inquiries $100,000 — Annual savings
