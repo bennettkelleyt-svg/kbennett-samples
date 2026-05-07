@@ -44,11 +44,6 @@ Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented t
 
 For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow Enterprise eliminates excess time spent on document management (such as entering and finding information), prevents data errors, and significantly reduces administrative overhead costs: freeing up time and funds that can be used for the benefit of the Tampa area communities this non-profit serves.
 
-<img src="/kbennett-samples/images/ymca2.png"
-     alt="happy workers"
-     style="float:right; width:260px; margin:0 0 1rem 1rem; border-radius:6px;" />
-
-
 </details>
 
 
