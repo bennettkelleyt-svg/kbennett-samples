@@ -39,8 +39,8 @@ From the map or the missions list, clicking the help icon opens a help window pr
 ### What Value Does CSH Offer?
 
 CSH offers many benefits for both users and the organization.
-
-![Online Help diagram](/kbennett-samples/images/OLH7.png)
+8
+![Online Help diagram](/kbennett-samples/images/OLH8.png)
 
 
 ### What Is the Status of Online Help for Our Product?
