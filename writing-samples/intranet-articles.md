@@ -9,7 +9,7 @@ nav_order: 5
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
 <details markdown="1">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Online Help – What Is It Good For?</span></strong></summary>
+  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: Online Help – What Is It Good For?</span></strong></summary>
 
 
 It’s happened to all of us from time to time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
@@ -51,7 +51,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
 
 
 <details markdown="1">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
+  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
 
 
 As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
@@ -63,9 +63,7 @@ Misused words and phrases are communicated all the time. Many people don’t rea
 For this article, I thought it might be helpful, and maybe even a little fun, to share some examples of commonly misused or misunderstood words and phrases. Below, I’ve outlined several grammatical errors I frequently encounter. Take a look; you may hear or read them often, too. 
 
 
-![Grammar example 1](/kbennett-samples/images/grammar1.png)
-
-![Grammar example 2](/kbennett-samples/images/grammar2.png)
+![Grammar example 1](/kbennett-samples/images/grammar3.png)
 
 
 These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them — you might be surprised at how frequently they occur.
