@@ -8,6 +8,8 @@ nav_order: 5
 
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
+<div style="height: .9rem;"></div>
+
 <details markdown="1">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: Online Help – What Is It Good For?</span></strong></summary>
 
