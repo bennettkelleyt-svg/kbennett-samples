@@ -16,10 +16,8 @@ These case studies were written for the company website to give potential custom
 <details markdown="1">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">From Paper Piles to Productivity</span></strong></summary>
 
-
-<details>
-  <summary>From Paper Piles to Productivity/summary>
 ![PaperPiles](/kbennett-samples/images/ymca1.png)
+
 
 ### The Challenge
 
@@ -44,6 +42,7 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 
 
 </details>
+
 
 <details markdown="1">
   <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
