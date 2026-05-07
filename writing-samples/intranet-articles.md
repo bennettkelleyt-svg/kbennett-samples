@@ -13,7 +13,7 @@ The following articles were produced for intranets for various companies. The pu
 <div style="height: .9rem;"></div>
 
 <details markdown="1">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: Online Help – What Is It Good For?</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Article: Online Help – What Is It Good For?</span></strong></summary>
 
 
 It’s happened to all of us from time to time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
@@ -56,7 +56,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
 <div style="height: 1rem;"></div>
 
 <details markdown="1">
-  <summary><strong><span style="font-size: 1.4rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
 
 
 As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
