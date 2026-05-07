@@ -16,11 +16,9 @@ These case studies were written for the company website to give potential custom
 <details markdown="1">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Tampa YMCA: From Paper Piles to Productivity</span></strong></summary>
 
-
+As a part of the largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
 
 #### **The Challenge**
-
-As a part of the largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
@@ -51,10 +49,10 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 <details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study KnowBe4: Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
 
-  
-#### **The Challenge**
 
 As the world’s largest provider of integrated security awareness training and simulated phishing platforms, KnowBe4 provides its services to over 20,000 organizations internationally. KnowBe4 understands the security risks inherent in today’s technology and seeks to address the human element, the “human firewall”, that is generally the last line of defense any company has in avoiding the havoc resulting from a myriad of cleverly deployed cyber attacks (e.g., malware, ransomware, CEO fraud, etc.). 
+
+#### **The Challenge**
 
 As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:  
 
