@@ -18,7 +18,7 @@ These case studies were written for the company website to give potential custom
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
-     style="float:left; width:260px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:209px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 
 ### The Challenge
@@ -38,7 +38,7 @@ Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented t
 
 <img src="/kbennett-samples/images/ymca6.png"
      alt="happy workers"
-     style="float:right; width:260px; margin:0 0 1rem 1rem; border-radius:6px;" />
+     style="float:right; width:188px; margin:0 0 1rem 1rem; border-radius:6px;" />
 
 ### The Result
 
