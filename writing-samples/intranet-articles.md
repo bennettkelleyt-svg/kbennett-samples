@@ -8,6 +8,8 @@ nav_order: 5
 
 The following articles were produced for intranets for various companies. The purpose of these clear, adaptable articles was to provide content about general workplace topics—pieces designed to support internal communication in those organizations.
 
+<p><span style="color:#7F7F7F; font-weight:700;">Click on the article titles below to display the corresponding article.</span></p>
+
 <div style="height: .9rem;"></div>
 
 <details markdown="1">
