@@ -53,9 +53,11 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 As the world’s largest provider of integrated security awareness training and simulated phishing platforms, KnowBe4 provides its services to over 20,000 organizations internationally. KnowBe4 understands the security risks inherent in today’s technology and seeks to address the human element, the “human firewall”, that is generally the last line of defense any company has in avoiding the havoc resulting from a myriad of cleverly deployed cyber attacks (e.g., malware, ransomware, CEO fraud, etc.). 
 
 
-<img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
-     alt="growth vs organization"
-     style="float:left; width:400px; height:auto; max-height:350px; margin:0 1rem 1rem 0; border-radius:6px;" />
+<div style="display:flex; align-items:flex-start;">
+  <img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
+       alt="growth vs organization"
+       style="width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
+  <div style="flex:1;">
 
 
 #### **The Challenge**
@@ -64,7 +66,11 @@ As the world’s largest provider of integrated security awareness training and 
 As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:  
 
 - A manual system of executing orders and their related tasks was just not efficient.  Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, <br style="clear:none;" /> one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States,  sharing documents internationally complicated processes even more
-  
+
+    </div>
+
+</div>
+
 - No way to track orders within the sales or delivery cycle
   
 - Inordinate amounts of time and expense are wasted on printers, paper, and toner
