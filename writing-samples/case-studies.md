@@ -79,8 +79,6 @@ As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it 
 
 </div>
 
-</details>
-
 
 - No way to track orders within the sales or delivery cycle
   
