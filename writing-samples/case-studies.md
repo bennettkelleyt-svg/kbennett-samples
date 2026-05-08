@@ -57,7 +57,7 @@ As the world’s largest provider of integrated security awareness training and 
 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
        alt="growthvsorganization"
-     style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; height:269px; margin:0 1rem 1rem 0; border-radius:10px;" />
 
 As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:
 
