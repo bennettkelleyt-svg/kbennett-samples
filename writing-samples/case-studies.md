@@ -63,6 +63,11 @@ As the world’s largest provider of integrated security awareness training and 
   <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p>
   <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
+  </ul>
+</div>
+
+<div style="clear:left;">
+  <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">No way to track orders within the sales or delivery cycle</li>
     <li style="margin-bottom:0.4rem;">Inordinate amounts of time and expense are wasted on printers, paper, and toner</li>
     <li style="margin-bottom:0.4rem;">No integration between systems</li>
