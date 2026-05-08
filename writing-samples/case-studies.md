@@ -55,7 +55,7 @@ As the world’s largest provider of integrated security awareness training and 
 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
      alt="growth v sorganization"
-     style="float:left; width:400px; height:auto; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 
 #### **The Challenge**
