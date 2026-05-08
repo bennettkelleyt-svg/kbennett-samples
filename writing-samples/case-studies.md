@@ -61,14 +61,13 @@ As the world’s largest provider of integrated security awareness training and 
 
 As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:
 
-<div style="padding-left:1rem;">
-  
-- A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more. </div> <br>
-   
-- No way to track orders within the sales or delivery cycle
-- Inordinate amounts of time and expense are wasted on printers, paper, and toner  
-- No integration between systems  
-- No metrics or visibility/transparency
+<ul style="padding-left:2rem; list-style-type:disc;">
+  <li style="margin-bottom:0.5rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
+  <li style="margin-bottom:0.5rem;">No way to track orders within the sales or delivery cycle</li>
+  <li style="margin-bottom:0.5rem;">Inordinate amounts of time and expense are wasted on printers, paper, and toner</li>
+  <li style="margin-bottom:0.5rem;">No integration between systems</li>
+  <li>No metrics or visibility/transparency</li>
+</ul>
 
   
 Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
