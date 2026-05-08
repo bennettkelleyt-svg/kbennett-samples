@@ -54,7 +54,7 @@ As the world’s largest provider of integrated security awareness training and 
 
 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
-     alt="growth v sorganization"
+     alt="growth vs organization"
      style="float:left; width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 
@@ -82,7 +82,7 @@ Finally, being located in Clearwater, Florida, the threat of natural disasters, 
 After months of searching for the answer that would resolve and meet the challenges KnowBe4 faced, DocuPhase checked all the boxes. As a product, DocuPhase provides the necessary customization and scalability, as well as acceleration of their sales cycle. As a service, the Team at DocuPhase listens, takes the time to understand their needs, and provides resolution, at a reasonable price.
 
 
-<img src="/kbennett-samples/images/KNOWb4-AFTER.png"
+<img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
     alt="growth with organization"
      style="float:right; width:350px; height:260px; margin:0 0 1rem 1rem; border-radius:6px;" /><img src="/kbennett-
      
