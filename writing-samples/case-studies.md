@@ -63,6 +63,9 @@ As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it 
 
 <div style="padding-left: 1rem;">
 
+  
+<ul style="margin-left:1.25rem; list-style-position: outside;" markdown="1">
+  
 - A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more. </div>
    
 - No way to track orders within the sales or delivery cycle
@@ -73,7 +76,7 @@ As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it 
   
 - No metrics or visibility/transparency
 
-
+</ul>
   
 Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
 
