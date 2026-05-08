@@ -117,31 +117,3 @@ Founder and CEO
 
 </details>
 
-
-<details markdown="1" style="margin-top: 1rem;">
-  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Goodwill: Good Will Thrives with Process Improvements</span></strong></summary>
-
-  
-Founded in 1957 as a not for profit organization, Goodwill Industries of Middle Tennessee (GIMT) sells donated goods to provide employment opportunities for individuals with disabilities or barriers to finding and maintaining work. The organization operates more than 300,000 square feet of retail sales floor space across 25+ locations, 70 donation sites, and 15 employment and training centers.
-
-#### **The Challenge**
-
-Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
-
-#### **The Solution** 
-DocuPhase’s Document Management core allows businesses to make documents and information available at the fingertips of the employees who need them when they need them. For Goodwill, this meant adding more fluid features to their document management system, including full text search, automated document routing, and powerful auto indexing. These capabilities reduce the time required to manage and update records manually while keeping information secure and organized.
-
-#### **The Results** 
-By implementing electronic Document Management and Process Automation, GIMT eliminated physical paper storage, reduced time spent on paperwork by 25% and cut interdepartmental inquiries by 70%. Altogether, these improvements generated more than $100,000 in annual savings.
-
-<p style="background-color:#156082; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
-Results at a Glance 
-  
-25% — Reduction in time spent on paperwork 70% — Reduction in interdepartmental inquiries $100,000 — Annual savings
-“Our net income is up, we are able to do more with less, and Goodwill is growing.” ED O’KELLEY Senior Director of Technology Solutions, Goodwill Industries of Middle Tennessee, Inc.
-
-</p>
-
-
-
-</details>
