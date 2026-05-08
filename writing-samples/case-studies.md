@@ -52,9 +52,11 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 
 As the world’s largest provider of integrated security awareness training and simulated phishing platforms, KnowBe4 provides its services to over 20,000 organizations internationally. KnowBe4 understands the security risks inherent in today’s technology and seeks to address the human element, the “human firewall”, that is generally the last line of defense any company has in avoiding the havoc resulting from a myriad of cleverly deployed cyber attacks (e.g., malware, ransomware, CEO fraud, etc.). 
 
+
 <img src="/kbennett-samples/images/KNOWb4-BEFORE.png"
-     alt="PaperPiles"
-     style="float:left; width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     alt="growth v sorganization"
+     style="float:left; width:400px; height:260px; margin:0 1rem 1rem 0; border-radius:6px;" />
+
 
 #### **The Challenge**
 
@@ -81,8 +83,9 @@ After months of searching for the answer that would resolve and meet the challen
 
 
 <img src="/kbennett-samples/images/KNOWb4-AFTER.png"
-     alt="happy workers"
-     style="float:right; width:350px; margin:0 0 1rem 1rem; border-radius:6px;" />
+    alt="growth with organization"
+     style="float:right; width:350px; height:260px; margin:0 0 1rem 1rem; border-radius:6px;" /><img src="/kbennett-
+     
 
 #### **The Result**
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
