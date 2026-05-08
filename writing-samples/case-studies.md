@@ -45,6 +45,7 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 
 </details>
 
+
 <details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study KnowBe4: Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
 
@@ -57,25 +58,14 @@ As the world’s largest provider of integrated security awareness training and 
 
   <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
        alt="growth vs organization"
-       style="width:400px; margin:0 1rem 1rem 0; border-radius:6px;" />
+       style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
-  <div style="flex:1;">
+#### **The Challenge**
 
-  <h4><strong>The Challenge</strong></h4>
-
-  <p>
     As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:
-  </p>
 
-  <ul>
-    <li>
-      A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.
-    </li>
-  </ul>
-
-</div>
-
-
+    - A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.
+   
 - No way to track orders within the sales or delivery cycle
   
 - Inordinate amounts of time and expense are wasted on printers, paper, and toner
@@ -95,7 +85,7 @@ After months of searching for the answer that would resolve and meet the challen
 
 <img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
     alt="growth with organization"
-     style="float:right; width:350px; height:260px; margin:0 0 1rem 1rem; border-radius:6px;" /><img src="/kbennett-
+      style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
      
 
 #### **The Result**
@@ -130,8 +120,6 @@ Stu Sjouwerman
 Founder and CEO
 
 </p>
-
-</div> 
 
 </details>
 
