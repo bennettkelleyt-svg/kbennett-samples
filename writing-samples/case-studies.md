@@ -56,18 +56,19 @@ As the world’s largest provider of integrated security awareness training and 
 #### **The Challenge**
 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
-       alt="growthvsorganization"
+     alt="growthvsorganization"
      style="float:left; height:300px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
-As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:
-
-<ul style="padding-left:2rem; list-style-type:disc;">
-  <li style="margin-bottom:0.5rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
-  <li style="margin-bottom:0.5rem;">No way to track orders within the sales or delivery cycle</li>
-  <li style="margin-bottom:0.5rem;">Inordinate amounts of time and expense are wasted on printers, paper, and toner</li>
-  <li style="margin-bottom:0.5rem;">No integration between systems</li>
-  <li>No metrics or visibility/transparency</li>
-</ul>
+<div style="overflow:hidden;">
+  <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p>
+  <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
+    <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
+    <li style="margin-bottom:0.4rem;">No way to track orders within the sales or delivery cycle</li>
+    <li style="margin-bottom:0.4rem;">Inordinate amounts of time and expense are wasted on printers, paper, and toner</li>
+    <li style="margin-bottom:0.4rem;">No integration between systems</li>
+    <li>No metrics or visibility/transparency</li>
+  </ul>
+</div>
 
   
 Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
