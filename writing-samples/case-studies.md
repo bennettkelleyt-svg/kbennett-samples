@@ -16,7 +16,7 @@ These case studies were written for the company website to give potential custom
 <details markdown="1">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Tampa YMCA: From Paper Piles to Productivity</span></strong></summary>
 
-As a part of the largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
+Serving as part of largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
@@ -46,19 +46,17 @@ For the YMCA Tampa organization, DocuPhase’s Document Management and Workflow 
 </details>
 
 
-<details markdown="1" style="margin-top: 1rem;">
+<details markdown="1">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study KnowBe4: Even Security Leaders Benefit From Modern Workflow</span></strong></summary>
-
 <div markdown="1">
 
 As the world’s largest provider of integrated security awareness training and simulated phishing platforms, KnowBe4 provides its services to over 20,000 organizations internationally. KnowBe4 understands the security risks inherent in today’s technology and seeks to address the human element, the “human firewall”, that is generally the last line of defense any company has in avoiding the havoc resulting from a myriad of cleverly deployed cyber attacks (e.g., malware, ransomware, CEO fraud, etc.). 
 
 
-<div style="display:flex; align-items:flex-start;">
-
-  <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
+<img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
        alt="growth vs organization"
        style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
+
 
 #### **The Challenge**
 
@@ -83,12 +81,8 @@ Finally, being located in Clearwater, Florida, the threat of natural disasters, 
 After months of searching for the answer that would resolve and meet the challenges KnowBe4 faced, DocuPhase checked all the boxes. As a product, DocuPhase provides the necessary customization and scalability, as well as acceleration of their sales cycle. As a service, the Team at DocuPhase listens, takes the time to understand their needs, and provides resolution, at a reasonable price.
 
 
-<img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
-    alt="growth with organization"
-      style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
-     
-
 #### **The Result**
+
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
 All of the information the KnowBe4 staff needs is now conveniently maintained in a single repository, accessible from DocuPhase, NetSuite, and Salesforce - eliminating the need for manual methods, printers, and paper.  Access, tracking, and visibility of data allow staff to know what’s happening in real-time; this means that tasks and resolution of issues can be accomplished immediately. Assigned roles and responsibilities, combined with business rules, get documents and information where they need to be, on time. 
 
