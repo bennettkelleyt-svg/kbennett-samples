@@ -73,7 +73,6 @@ Finally, being located in Clearwater, Florida, the threat of natural disasters, 
 
 
 #### **The Solution**
-
 After months of searching for the answer that would resolve and meet the challenges KnowBe4 faced, DocuPhase checked all the boxes. As a product, DocuPhase provides the necessary customization and scalability, as well as acceleration of their sales cycle. As a service, the Team at DocuPhase listens, takes the time to understand their needs, and provides resolution, at a reasonable price.
 
 
@@ -141,9 +140,11 @@ Direct challenges for the Human Resources department included inefficient human 
 
 
 <div style="clear:left;">
-  <h4><strong>The Solution</strong></h4>
+  <div>
+<h4><strong>The Solution</strong></h4>
+<h4><strong>The Solution</strong></h4>
 DocuPhase’s Document Management core allows businesses to make documents and information available at the fingertips of the employees who need them when they need them. For Goodwill, this meant adding more fluid features to their document management system, including full text search, automated document routing, and powerful auto indexing. These capabilities reduce the time required to manage and update records manually while keeping information secure and organized.
-
+</div>
 </div>
 
 #### **The Results** 
