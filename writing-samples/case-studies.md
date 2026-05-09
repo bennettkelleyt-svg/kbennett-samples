@@ -138,7 +138,7 @@ Founded in 1957 as a not for profit organization, Goodwill Industries of Middle 
 
 <img src="/kbennett-samples/images/Goodwill-BEFORE1.png"
      alt="chaosinthefiles"
-     style="float:left; height:200px;  margin:0 1rem 1rem 0; border-radius:4px;" />
+     style="float:left; height:300px;  margin:0 1rem 1rem 0; border-radius:4px;" />
 
 Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
 
