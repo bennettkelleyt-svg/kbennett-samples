@@ -20,7 +20,7 @@ Serving as part of largest and oldest service organization in the US, the Tampa 
 
 <img src="/kbennett-samples/images/ymca5.png"
      alt="PaperPiles"
-     style="float:left; width:180px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 #### **The Challenge**
 
