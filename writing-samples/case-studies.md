@@ -122,6 +122,10 @@ Founder and CEO
 
 </p>
 
+
+</details>
+
+
 <details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Goodwill: Good Will Thrives with Process Improvements</span></strong></summary>
 
