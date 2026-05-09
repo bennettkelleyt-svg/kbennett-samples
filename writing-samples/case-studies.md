@@ -62,11 +62,8 @@ As the world’s largest provider of integrated security awareness training and 
      alt="growthvsorganization"
      style="float:left; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
+<ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
-  </ul>
-
-<div style="clear:left;">
-  <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">No way to track orders within the sales or delivery cycle</li>
     <li style="margin-bottom:0.4rem;">Inordinate amounts of time and expense are wasted on printers, paper, and toner</li>
     <li style="margin-bottom:0.4rem;">No integration between systems</li>
