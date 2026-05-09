@@ -55,16 +55,15 @@ As the world’s largest provider of integrated security awareness training and 
 
 #### **The Challenge**
 
-<img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
+  <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p>
+  <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
+
+    <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
      alt="growthvsorganization"
      style="float:left; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
-<div style="overflow:hidden;">
-  <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p>
-  <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
   </ul>
-</div>
 
 <div style="clear:left;">
   <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
@@ -85,11 +84,11 @@ After months of searching for the answer that would resolve and meet the challen
 
 
 #### **The Result**
+
 <img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
      alt="growthvsorganization"
      style="float:right; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
      
-
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
 All of the information the KnowBe4 staff needs is now conveniently maintained in a single repository, accessible from DocuPhase, NetSuite, and Salesforce - eliminating the need for manual methods, printers, and paper.  Access, tracking, and visibility of data allow staff to know what’s happening in real-time; this means that tasks and resolution of issues can be accomplished immediately. Assigned roles and responsibilities, combined with business rules, get documents and information where they need to be, on time. 
 
