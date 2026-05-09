@@ -146,9 +146,9 @@ leading to overflowing filing cabinets and the risk of misplaced records.
 
 Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
 
-<div style="clear:left;">
 
-#### **The Solution** 
+<div style="clear:left;">
+  <h4><strong>The Solution</strong></h4>
 DocuPhase’s Document Management core allows businesses to make documents and information available at the fingertips of the employees who need them when they need them. For Goodwill, this meant adding more fluid features to their document management system, including full text search, automated document routing, and powerful auto indexing. These capabilities reduce the time required to manage and update records manually while keeping information secure and organized.
 
 </div>
