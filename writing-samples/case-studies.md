@@ -58,7 +58,7 @@ As the world’s largest provider of integrated security awareness training and 
 <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p> 
 <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
 alt="growthvsorganization"
-style="float:left; height:300px; width:300px; margin:0 1rem 1rem 0; border-radius:4px;" />
+style="float:left; height:400px; width:400px; margin:0 1rem 1rem 0; border-radius:4px;" />
 <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
     <li style="margin-bottom:0.4rem;">No way to track orders within the sales or delivery cycle</li>
