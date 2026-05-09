@@ -29,7 +29,9 @@ While OLH is helpful, it’s sometimes difficult to quickly find information. Th
 ### What is Context-sensitive Help?
 
 Context-sensitive help (CSH) enhances ordinary online documentation by providing a topic for each screen within the application, tool, or portal. When you click the help icon from any window within our product (such as Trip Mapping), a help window with corresponding information (such as "Using Map Features) appears on top of the product application screen. The help screen provides content (both instructional and conceptual) about the currently displayed application screen). A search field is available to allow the user to find any other information in the help system. Additionally, the navigation pane on the left side of the help window provides a list of topics that can be use to view related or other information about the product. 
-
+<img src="/kbennett-samples/images/online help sample.png"
+     alt="helpexample"
+     style="float:left; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 ### Why Are We Telling You About CSH?
 
