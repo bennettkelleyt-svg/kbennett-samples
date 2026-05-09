@@ -120,7 +120,6 @@ Founder and CEO
 
 <details markdown="1" style="margin-top: 1rem;">
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Case Study Goodwill: Good Will Thrives with Process Improvements</span></strong></summary>
-
   
 Founded in 1957 as a not for profit organization, Goodwill Industries of Middle Tennessee (GIMT) sells donated goods to provide employment opportunities for individuals with disabilities or barriers to finding and maintaining work. The organization operates more than 300,000 square feet of retail sales floor space across 25+ locations, 70 donation sites, and 15 employment and training centers.
 
@@ -142,7 +141,6 @@ Direct challenges for the Human Resources department included inefficient human 
 <div style="clear:left;">
   <div>
 <h4><strong>The Solution</strong></h4>
-<h4><strong>The Solution</strong></h4>
 DocuPhase’s Document Management core allows businesses to make documents and information available at the fingertips of the employees who need them when they need them. For Goodwill, this meant adding more fluid features to their document management system, including full text search, automated document routing, and powerful auto indexing. These capabilities reduce the time required to manage and update records manually while keeping information secure and organized.
 </div>
 </div>
@@ -153,7 +151,6 @@ DocuPhase’s Document Management core allows businesses to make documents and i
 <img src="/kbennett-samples/images/Goodwill-AFTER.png"
      alt="organizedoffice"
      style="float:right; height:200px; margin:0 1rem 1rem 0; border-radius:4px;" />
-
 
 By implementing electronic Document Management and Process Automation, GIMT eliminated physical paper storage, reduced time spent on paperwork by 25% and cut interdepartmental inquiries by 70%. Altogether, these improvements generated more than $100,000 in annual savings.
 
