@@ -48,8 +48,9 @@ From the map or the missions list, clicking the help icon opens a help window pr
 ### What Value Does CSH Offer?
 
 CSH offers many benefits for both users and the organization.
-8
-![Online Help diagram](/kbennett-samples/images/OLH8.png)
+<img src="/kbennett-samples/images/OLH8.png"
+     alt="Online Help diagram"
+     style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
 
 
 ### What Is the Status of Online Help for Our Product?
@@ -78,7 +79,9 @@ Misused words and phrases are communicated all the time. Many people don’t rea
 For this article, I thought it might be helpful, and maybe even a little fun, to share some examples of commonly misused or misunderstood words and phrases. Below, I’ve outlined several grammatical errors I frequently encounter. Take a look; you may hear or read them often, too. 
 
 
-![Grammar example 1](/kbennett-samples/images/grammar5.png)
+<img src="/kbennett-samples/images/grammar5.png"
+     alt="Grammar example 1"
+     style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
 
 
 These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them — you might be surprised at how frequently they occur.
