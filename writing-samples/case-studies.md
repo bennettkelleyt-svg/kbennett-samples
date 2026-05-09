@@ -81,7 +81,6 @@ After months of searching for the answer that would resolve and meet the challen
 <img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
      alt="growthvsorganization"
      style="float:right; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
-     
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
 All of the information the KnowBe4 staff needs is now conveniently maintained in a single repository, accessible from DocuPhase, NetSuite, and Salesforce - eliminating the need for manual methods, printers, and paper.  Access, tracking, and visibility of data allow staff to know what’s happening in real-time; this means that tasks and resolution of issues can be accomplished immediately. Assigned roles and responsibilities, combined with business rules, get documents and information where they need to be, on time. 
 
@@ -146,7 +145,6 @@ DocuPhase’s Document Management core allows businesses to make documents and i
 </div>
 
 #### **The Results** 
-
 
 <img src="/kbennett-samples/images/Goodwill-AFTER.png"
      alt="organizedoffice"
