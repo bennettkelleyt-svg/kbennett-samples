@@ -68,7 +68,7 @@ As a technical writer, I’m generally overly attentive to the grammar and speec
 
 <img src="/kbennett-samples/images/wordnerd1.png"
      alt="WordNerd"
-     style="float:left; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:right; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 
 I often hear myself, in one‑sided conversations, correcting people I hear on the radio or TV. At times, I even shout my corrections at them; at other times, I’m simply speechless and rolling my eyes.
