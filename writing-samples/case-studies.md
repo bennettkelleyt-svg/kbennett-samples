@@ -59,7 +59,7 @@ As the world’s largest provider of integrated security awareness training and 
   
 <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
 alt="growthvsorganization"
-style="float:left; height:370px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
+style="float:left; height:300px; width:300px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
 <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
@@ -144,12 +144,11 @@ DocuPhase’s Document Management core allows businesses to make documents and i
 </div>
 </div>
 
-#### **The Results** 
+#### **The Result** 
 
 <img src="/kbennett-samples/images/Goodwill-AFTER.png"
      alt="organizedoffice"
      style="float:right; height:200px; margin:0 1rem 1rem 0; border-radius:4px;" />
-
 By implementing electronic Document Management and Process Automation, GIMT eliminated physical paper storage, reduced time spent on paperwork by 25% and cut interdepartmental inquiries by 70%. Altogether, these improvements generated more than $100,000 in annual savings.
 
 <p style="background-color:#156082; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
