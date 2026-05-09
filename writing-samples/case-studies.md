@@ -60,7 +60,7 @@ As the world’s largest provider of integrated security awareness training and 
 
     <img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
      alt="growthvsorganization"
-     style="float:left; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
+     style="float:left; height:370px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
 <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
     <li style="margin-bottom:0.4rem;">A manual system of executing orders and their related tasks was just not efficient. Not only were orders delivered manually, but the paperwork involved had to be physically moved from one location to another, one floor to another, and/or one building to another; eventually, with the advent of expanding outside of the United States, sharing documents internationally complicated processes even more.</li>
@@ -69,11 +69,8 @@ As the world’s largest provider of integrated security awareness training and 
     <li style="margin-bottom:0.4rem;">No integration between systems</li>
     <li>No metrics or visibility/transparency</li>
   </ul>
-</div>
-
   
 Finally, being located in Clearwater, Florida, the threat of natural disasters, such as hurricanes (not to mention power outages, fire, pandemic, etc.), is a real one. There had to be a way to not only keep their paper trail safe, but allow them to keep their business viable, productive, and growing - no matter what happens. KnowBe4 needed an answer that allowed its staff to be more productive in less time, provide its clients with product and services sooner, and keep its business intact - under any circumstances.
-
 
 #### **The Solution**
 
