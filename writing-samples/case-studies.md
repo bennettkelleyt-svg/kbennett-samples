@@ -136,11 +136,11 @@ Founded in 1957 as a not for profit organization, Goodwill Industries of Middle 
 
 #### **The Challenge**
 
-Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
-
 <img src="/kbennett-samples/images/Goodwill-BEFORE1.png"
      alt="chaosinthefiles"
-     style="float:left; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
+     style="float:left; height:200px;  margin:0 1rem 1rem 0; border-radius:4px;" />
+
+Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, leading to overflowing filing cabinets and the risk of misplaced records. Direct challenges for the Human Resources department included inefficient human resource and payroll processes, lengthy and time consuming approvals, and an ever growing need for physical storage space.
 
 #### **The Solution** 
 DocuPhase’s Document Management core allows businesses to make documents and information available at the fingertips of the employees who need them when they need them. For Goodwill, this meant adding more fluid features to their document management system, including full text search, automated document routing, and powerful auto indexing. These capabilities reduce the time required to manage and update records manually while keeping information secure and organized.
@@ -148,9 +148,9 @@ DocuPhase’s Document Management core allows businesses to make documents and i
 #### **The Results** 
 
 
-<img src="/kbennett-samples/images/Goodwill-AFTER.png.png"
+<img src="/kbennett-samples/images/Goodwill-AFTER.png"
      alt="organizedoffice"
-     style="float:right; height:350px; width:350px; margin:0 1rem 1rem 0; border-radius:4px;" />
+     style="float:right; height:200px; margin:0 1rem 1rem 0; border-radius:4px;" />
 
 
 By implementing electronic Document Management and Process Automation, GIMT eliminated physical paper storage, reduced time spent on paperwork by 25% and cut interdepartmental inquiries by 70%. Altogether, these improvements generated more than $100,000 in annual savings.
