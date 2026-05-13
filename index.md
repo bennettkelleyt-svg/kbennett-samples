@@ -4,8 +4,7 @@ nav_order: 1
 ---
 
 # Portfolio Overview
-I appreciate you taking the time to explore these work samples.  
-These examples represent some of the types of technical writing I’ve produced over the years, including user guides, API documentation, quick‑reference materials, and case studies.
+My technical writing portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
