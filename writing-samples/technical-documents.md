@@ -1,5 +1,5 @@
 ---
-title: IT and Developer Guides 
+title: Technical Documents 
 parent: Writing Samples
 nav_order: 2
 ---
