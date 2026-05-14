@@ -2,6 +2,11 @@
 title: "Kelley Bennett: Behind the Work"
 nav_order: 3
 ---
+This page offers a bit of insight into how I think, how I work, and what drives me as a writer — if that's what you're looking for, you're in the right place!
+<img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
+     alt="helpexample"
+     style="float:left; width:800px; margin:0 1rem 1rem 0; border-radius:6px;" />
+
 
 ## What I Do
 I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms — basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
