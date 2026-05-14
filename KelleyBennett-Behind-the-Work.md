@@ -5,7 +5,7 @@ nav_order: 3
 
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
      alt="helpexample"
-     style="float:right; width:100px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:left; width:100px; margin:0 1rem 1rem 0; border-radius:6px;" />
 # Kelley Bennett: Behind the Work
 This page offers a bit of insight into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
 
