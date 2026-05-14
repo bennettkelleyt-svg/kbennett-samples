@@ -11,7 +11,7 @@ Some of my more recent work is confidential due to employer requirements, so thi
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
-## More About Me
+## More About the Writer
 Learn more about me as a writer and teammate by visiting [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and the Kelley Bennett: Behind the Work page in this portfolio.
 
 For more insight about how I work  and collaborate with teams, as well as the kind of content I’m known for delivering, visit the .
