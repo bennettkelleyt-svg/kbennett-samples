@@ -7,7 +7,7 @@ nav_order: 3
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
      alt="helpexample"
      style="float:right; width:100px; margin:0 1rem 1rem 0; border-radius:6px;" />
-This page offers a bit of insight into how I think, how I work, and what drives me as a writer — if that's what you're looking for, you're in the right place!
+This page offers a bit of insight into what’s “behind” the work I do as a technical writer — how I think, how I work, and what drives my efforts. If that’s what you’re looking for, you’re in the right place!
 
 
 
