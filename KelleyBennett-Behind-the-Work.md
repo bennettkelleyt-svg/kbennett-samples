@@ -5,7 +5,7 @@ nav_order: 3
 This page offers a bit of insight into how I think, how I work, and what drives me as a writer — if that's what you're looking for, you're in the right place!
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
      alt="helpexample"
-     style="float:left; width:150px; margin:0 1rem 1rem 0; border-radius:6px;" />
+     style="float:right; width:150px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
 
 ## What I Do
