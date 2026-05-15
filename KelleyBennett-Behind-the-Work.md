@@ -9,10 +9,7 @@ nav_order: 3
 # Kelley Bennett: Behind the Work
 This page offers a look into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
 
-<div style="clear:both;"></div>
-
-
-## What I Do
+<h2 style="clear:both;">What I Do</h2>
 I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms — basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
 
 I’m the person who opens the thing, clicks the buttons, and asks, “okay, but what really happens here?” I like being the one to ask the questions no one else wants to ask, then use the answers to create content readers understand.
