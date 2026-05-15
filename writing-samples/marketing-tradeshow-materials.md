@@ -9,7 +9,7 @@ Technical writing isn't always strictly "technical" documentation — sometimes 
 <p><span style="color:#7F7F7F; font-weight:700;">Click a case study title below to display the corresponding content.</span></p>
 
 <ul>
-  <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Industry Trade Ad_healthcare.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500;"> Industry Trade Ad - Healthcare</span></strong></a><p style="margin: .2rem 0 0 .1rem; font-size: .95rem; line-height: 1.4;">This promotional ad was created for inclusion in an industry trade newsletter.</p>
+  <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Industry Trade Ad_healthcare.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500;"> Industry Trade Ad - Healthcare</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This promotional ad was created for inclusion in an industry trade newsletter.</p>
   </li>
   
   <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Mailer-HIPAAcompliance_healthcare.pdf
