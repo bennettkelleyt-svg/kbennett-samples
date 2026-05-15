@@ -8,7 +8,7 @@ nav_order: 5
 
 I wrote these articles for a company intranet to explain commonly unfamiliar or misunderstood topics and support more professional communication.
 
-<p><span style="color:#7F7F7F; font-weight:700;">Click on the article titles below to display the corresponding article.</span></p>
+<p><span style="color:#7F7F7F; font-weight:700;">Click an article title below to display the corresponding content.</span></p>
 
 <div style="height: .9rem;"></div>
 
