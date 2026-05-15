@@ -13,8 +13,8 @@ Good editing can mean anything from fixing a single word to rebuilding an entire
 <h2>Newsletter Article</h2>
 This article sample was published in the company newsletter sent to clients. The original draft was written by a client services representative; both the draft and my final edited version are provided below.
 <ol>
-  <li><a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;">Newsletter Article - Original - Insurance Industry</span></strong></a></li>
-  <li><a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1a-After_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;">Newsletter Article - Edited - Insurance Industry</span></strong></a></li>
+  <li><a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;margin-top:1rem;">Newsletter Article - Original - Insurance Industry</span></strong></a></li>
+  <li><a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1a-After_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;margin-top:.3rem;">Newsletter Article - Edited - Insurance Industry</span></strong></a></li>
 </ol>
 
 <h2>White Paper</h2>
