@@ -11,6 +11,7 @@ This page offers a look into what's "behind" the work I do: how I think, how I w
 
 <div style="clear:both;"></div>
 
+
 ## What I Do
 I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms — basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
 
