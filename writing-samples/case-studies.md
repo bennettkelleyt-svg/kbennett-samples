@@ -9,7 +9,7 @@ nav_order: 4
 The following case studies were written for the company website to give potential customers clear examples of the challenges clients faced and the product solutions used to support their needs.
 
 
-<p><span style="color:#7F7F7F; font-weight:700;">Click on the case study titles below to display the corresponding content.</span></p>
+<p><span style="color:#7F7F7F; font-weight:700;">Click a case study title below to display the corresponding content.</span></p>
 
 <div style="height: .9rem;"></div>
 
