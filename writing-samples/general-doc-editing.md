@@ -10,8 +10,9 @@ Good editing can mean anything from fixing a single word to rebuilding an entire
 
 <div style="height: .9rem;"></div>
 
-<a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank">Newsletter Article - Original - Insurance Industry</a>
-<a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank">Newsletter Article - Edited - Insurance Industry</a>
+<a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Newsletter Article - Original - Insurance Industry</span></strong></a>
+
+<a href="/kbennett-samples/PDF-files/doc-editing/Newsletter article 1-Before_insurance.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Newsletter Article - Edited - Insurance Industry</span></strong></a>
 
 
 <a href="/kbennett-samples/PDF-files/doc-editing/White Paper1-Before_insurance.pdf" target="_blank">White Paper - Original - Insurance Industry</a>
