@@ -6,10 +6,14 @@ nav_order: 6
 
 Technical writing isn't always strictly "technical" documentation — sometimes it's about creatively capturing attention, building interest, and deepening customer engagement. These examples show some of my writing that was built to persuade as well as inform.
 
+<p><span style="color:#7F7F7F; font-weight:700;">Click a case study title below to display the corresponding content.</span></p>
+
 <ul>
   <li><a href="/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Industry Trade Ad_healthcare.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500;"> Industry Trade Ad - Healthcare</span></strong></a></li>
+  <p>This promotional ad was created for inclusion in an industry trade newsletter.</p>
   <li><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Mailer-HIPAAcompliance_healthcare.pdf
-" target="_blank"><strong><span style="font-size: .4rem; color:#0070C0; font-weight: 500;">Marketing Tradeshow Mailer - Evaluating HIPPA Compliance Readiness - Healthcare</span></strong></a></li>
+" target="_blank"><strong><span style="font-size: .4rem; color:#0070C0; font-weight: 500;">Marketing Tradeshow Mailer - Evaluating HIPPA Compliance Assessment - Healthcare</span></strong></a></li>
+   <p>This mailer was created to introduce the company’s HIPAA Guidance and Assessment service to existing and potential clients.</p>
 <li><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Presentation-Tradeshow HIPPA_healthcare.pdf
 " target="_blank"><strong><span style="font-size: .4rem; color:#0070C0; font-weight: 500;">Marketing Tradeshow Mailer - Evaluating HIPPA Compliance - Healthcare</span></strong></a></li>
 <li><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Web Announcement Pg_complexSystems.pdf
