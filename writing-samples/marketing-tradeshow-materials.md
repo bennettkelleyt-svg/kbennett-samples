@@ -22,6 +22,8 @@ Technical writing isn't always strictly "technical" documentation — sometimes 
    <p>TThe marketing team was preparing an announcement for the company website to officially introduce the names of the tools included in the proprietary platform. They wanted to include clear descriptions of each tool. Because I had spent several weeks refining and aligning the definitions for each one, I was asked to provide the written content used in that announcement. </p>
 <li><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/Web Landing Pg-Exp Reports-complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500;">Website Landing Page - Expense Report Automation - Complex Systems</span></strong></a></li>
+  <p>This website content was created to showcase one of the company’s primary platform features, its automated expense reporting solution, while highlighting its key benefits and capabilities for existing and prospective clients. </p>
 <li><a href="/kbennett-samples/PDF-files/doc-editing/kbennett-samples/PDF-files/PDF-files/mktg-tradeshow/WWeb Landing Pg-Nonprof_complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500;">Website Landing Page - Nonprofit & Charity Management Automation - Complex Systems</span></strong></a></li>
+  <p>This web content highlights how the company’s platform supports the unique challenges of nonprofit and charitable organizations. </p>
 </ul>
