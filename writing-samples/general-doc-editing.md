@@ -20,6 +20,6 @@ This article sample was published in the company newsletter sent to clients. The
 <h2>White Paper</h2>
 This white paper was developed for sales and client‑facing use. A sales engineer created the original draft; both the draft and my final edited version are provided below.
 <ol>
-  <li><a href="/kbennett-samples/PDF-files/doc-editing/White Paper1-Before_insurance.pdf" target="_blank"><span style="font-size: 1rem; color:#0070C0; font-weight: 500;"> White Paper - Original - Insurance Industry</span></strong></a></li>
-<li><a href="/kbennett-samples/PDF-files/doc-editing/White Paper1a-After_insurance.pdf" target="_blank"><span style="font-size: 1rem; color:#0070C0; font-weight: 500;">White Paper - Edited - Insurance Industry</span></strong></a></li>
+  <li><a href="/kbennett-samples/PDF-files/doc-editing/White Paper1-Before_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;"> White Paper - Original - Insurance Industry</span></strong></a></li>
+<li><a href="/kbennett-samples/PDF-files/doc-editing/White Paper1a-After_insurance.pdf" target="_blank"><strong><span style="font-size: 1rem; color:#0070C0; font-weight: 500;">White Paper - Edited - Insurance Industry</span></strong></a></li>
 
