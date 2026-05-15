@@ -7,7 +7,7 @@ nav_order: 1
 My technical writing portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.
 <img src="/kbennett-samples/images/landingpage imageVing.png"
      alt="doc types"
-      style="float:right; width:380px; border-radius:6px; margin-top:3rem;" />
+      style="float:right; width:380px; border-radius:6px; margin-top:4rem;" />
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
