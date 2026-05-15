@@ -21,7 +21,7 @@ I’ve also developed multiple online help systems and knowledge bases that live
      style="float:left; width:280px; border-radius:6px;" />
      
 Learn more about me as a writer and teammate by visiting the [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and the [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio.
-![Uploading image.png…]()
+
 
 <h2 style="clear:both; margin-top:4.5rem;">Contact Details</h2>
 
