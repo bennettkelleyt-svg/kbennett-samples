@@ -7,7 +7,7 @@ nav_order: 1
 My technical writing portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.
 <img src="/kbennett-samples/images/landingpage imageVing.png"
      alt="doc types"
-      style="float:right; width:300px; border-radius:6px; margin-top:2rem;" />
+      style="float:right; width:3200px; border-radius:6px; margin-top:2rem;" />
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
@@ -18,7 +18,7 @@ I’ve also developed multiple online help systems and knowledge bases that live
 
 <img src="/kbennett-samples/images/landingpage imageOvalVing.png"
      alt="tech writer"
-     style="float:left; width:300px; border-radius:6px;" />
+     style="float:left; width:280px; border-radius:6px;" />
      
 Learn more about me as a writer and teammate by visiting the [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and the [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio.
 ![Uploading image.png…]()
