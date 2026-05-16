@@ -5,3 +5,4 @@ plugins:
 
 title: Writing Portfolio of Kelley Bennett
 description: Portfolio samples
+custom_css: "assets/css/custom.css"
