@@ -4,7 +4,7 @@ parent: Writing Samples
 nav_order: 3
 ---
 
-<h1 style="color:#0070C0; font-weight: 700; font-size: 1.5rem !important;">Strategy Documents</h1>
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Strategy Documents</h1>
 
 The strategy-based documents shared represent a small sample of those I produced that were used to help define the direction, structure, and frameworks that guide how teams plan, align, and deliver initiatives.
 
