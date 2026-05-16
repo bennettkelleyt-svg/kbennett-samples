@@ -5,11 +5,13 @@ nav_order: 1
 
 # Portfolio Overview
 My technical writing portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.
+
+> **Note:** <span style="font-size: 0.9rem; font-style: italic;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
+
+
 <img src="/kbennett-samples/images/landingpage imageVing.png"
      alt="doc types"
-      style="float:right; width:350px; border-radius:6px; margin-top:10rem;" />
-
-> **Note:** <span style="font-size: 0.9rem;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
+      style="float:right; width:350px; border-radius:6px; margin-top:4rem;" />
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
