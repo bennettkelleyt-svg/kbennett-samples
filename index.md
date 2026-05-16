@@ -9,6 +9,8 @@ My technical writing portfolio offers a selected sampling of my work, including 
      alt="doc types"
       style="float:right; width:350px; border-radius:6px; margin-top:2rem;" />
 
+> **Note:** As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
+
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
 
