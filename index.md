@@ -11,7 +11,7 @@ My technical writing portfolio offers a selected sampling of my work, including 
 
 <img src="/kbennett-samples/images/landingpage imageVing.png"
      alt="doc types"
-      style="float:right; width:350px; border-radius:6px; margin-top:.75rem;" />
+      style="float:right; width:350px; border-radius:6px; margin-top:.0rem;" />
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
