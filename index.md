@@ -3,7 +3,9 @@ title: "Portfolio Overview"
 nav_order: 1
 ---
 
-# Portfolio Overview
+
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
+
 My technical writing portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.
 
 > **Note:** <span style="font-size: 0.9rem; font-style: italic;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
