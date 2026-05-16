@@ -4,7 +4,8 @@ parent: Writing Samples
 nav_order: 5
 ---
 
-## Intranet Articles
+
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Intranet Articles</h1>
 
 I wrote these articles for a company intranet to explain commonly unfamiliar or misunderstood topics and support more professional communication.
 
