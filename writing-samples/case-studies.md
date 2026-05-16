@@ -5,7 +5,8 @@ nav_order: 4
 ---
 
 
-## Case Studies
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Case Studies</h1>
+
 The following case studies were written for the company website to give potential customers clear examples of the challenges clients faced and the product solutions used to support their needs.
 
 
