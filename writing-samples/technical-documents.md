@@ -27,7 +27,7 @@ As noted in my [Portfolio Overview](/kbennett-samples/) , only a small set of sa
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/technical-guides/Install Maint-Digital Phone_telephony.pdf
 " target="_blank"><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Installation & Maintenance Guide - Digital Phone - Complex Systems</span></a> <p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">Created for installation and support teams, this guide covers setting up and maintaining the digital telephone system. </p></li>
 
-<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/technical-guides/Installation Guide-Installer-complexSystems.pdf
+<li style="margin-bottom: 1rem;"><a href="kbennett-samples/PDF-files/technical-guides/Configuration Guide-SSO_complexSystems.pdf
 " target="_blank"><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Install Guide - Installer - Complex Systems</span></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This guide covers everything needed to use the company's customized installer — from prerequisites and configuration to navigating the installation wizard.</p></li>
    
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/technical-guides/Integration Guide-QuickBooks_healthcare.pdf
