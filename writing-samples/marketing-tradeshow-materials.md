@@ -4,6 +4,8 @@ parent: Writing Samples
 nav_order: 6
 ---
 
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Marketing and Tradeshow Collateral </h1>
+
 Technical writing isn't always strictly "technical" documentation — sometimes it's about creatively capturing attention, building interest, and deepening customer engagement. These examples show some of my writing that was built to persuade as well as inform.
 
 <p><span style="color:#7F7F7F; font-weight:700;">Click a document title below to display the corresponding PDF in a new tab. </span></p>
