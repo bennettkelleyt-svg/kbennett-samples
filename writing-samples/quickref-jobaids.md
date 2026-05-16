@@ -4,6 +4,9 @@ parent: Writing Samples
 nav_order: 7
 ---
 
+
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Quick Reference Guides</h1>
+
 These guides provide simple, at‑a‑glance instructions to help users complete common tasks quickly.
 
 <p><span style="color:#7F7F7F; font-weight:700;">Click a document title below to display the corresponding PDF in a new tab. </span></p>
