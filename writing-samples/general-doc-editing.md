@@ -1,9 +1,11 @@
 ---
-title: General Editing Examples 
+title: General Editing - Before and After
 parent: Writing Samples
 nav_order: 8
-
 ---
+
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">General Editing - Before and After</h1>
+
 Good editing can mean anything from fixing a single word to rebuilding an entire document. These before‑and‑after samples offer a glimpse into a much larger body of editing work.
 
 <p><span style="color:#7F7F7F; font-weight:700;">Click a case study title below to display the corresponding content.</span></p>
