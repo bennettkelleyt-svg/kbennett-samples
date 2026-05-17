@@ -1,5 +1,5 @@
 ---
-title: Strategy-oriented Documents
+title: Strategy Documents
 parent: Writing Samples
 nav_order: 3
 ---
@@ -25,7 +25,7 @@ The strategy-based documents shared represent a small sample of those I produced
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">PRD - Online Help - Complex Systems</span></strong></a> <p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">To advance the implementation of the new online help system, I created this product requirements document to define what was needed so the work could be included in a future sprint. The original version of this PRD was developed for Confluence but later exported to Word, redacted, and then converted to a PDF. </p></li>
    
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Proposal-Service Desk System_complexSystems.pdf
-" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Evaluation - SErvice Desk System - Complest System</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">After thorough research, I put together this evaluation report to help the company evaluate and select a new Help Desk Service system.</p></li>
+" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Evaluation - Service Desk System - Complex System</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">After thorough research, I put together this evaluation report to help the company evaluate and select a new Help Desk Service system.</p></li>
 
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Structure Plan-Confluence_complexSystems .pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Proposal - Confluence Restructure - Complex Systems</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This proposal outlines a unified Confluence structure for all teams, designed to make information easier to find, reduce duplication, and improve communication across departments.</p></li>
