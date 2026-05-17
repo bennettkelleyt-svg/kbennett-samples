@@ -11,7 +11,7 @@ My technical writing portfolio offers a selected sampling of my work, including 
 > **Notes**
 >  - <span style="font-size: 0.9rem; font-style: italic;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
 >  - <span style="font-size: 0.9rem; font-style: italic;"> For the purposes of categorizing documents in this portfolio, "Complex systems" refers to specialized or niche industries that don’t fit into the other industry categories used.
->  - Use the search field at the top of the portfolio window to locate documents by topic, type, or industry.
+>  - <span style="font-size: 0.9rem; font-style: italic;">Use the search field at the top of the portfolio window to locate documents by topic, type, or industry.
 
 
 
