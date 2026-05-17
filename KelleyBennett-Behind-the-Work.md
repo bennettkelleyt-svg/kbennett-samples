@@ -33,5 +33,7 @@ At the end of the day, my work always comes back to the user. By putting myself 
 
 ## What I Deliver
 Over the course of my career, I’ve designed, built, and rebuilt documentation ecosystems from the ground up: online help systems, knowledge bases, and content libraries that teams and users actually rely on. I’ve also created supporting content, including workflow documentation, product requirements, and technical content for engineers, developers, and anyone else involved in building the product.
+
 No matter the project or audience, what I deliver stays consistent: content that's clear, accurate, and built to last. 
-NOTE: For a closer look at the types of content I've produced, visit the Writing Samples section of this portfolio.
+
+> **NOTE:** For a closer look at the types of content I've produced, visit the [Writing Samples](/kbennett-samples/writing-samples/) section of this portfolio.
