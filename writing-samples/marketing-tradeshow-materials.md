@@ -23,6 +23,6 @@ Technical writing isn't always strictly "technical" documentation — sometimes 
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/mktg-tradeshow/Web Landing Pg-Exp Reports-complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Website Landing Page - Expense Report Automation - Complex Systems</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This website content was created to showcase one of the company’s primary platform features, its automated expense reporting solution, while highlighting its key benefits and capabilities for existing and prospective clients. </p></li>
   
-<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/mktg-tradeshow/WWeb Landing Pg-Nonprof_complexSystems.pdf
+<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/mktg-tradeshow/Web Landing Pg-Nonprof_complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Website Landing Page - Nonprofit Management Automation - Complex Systems</span></strong></a><p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This web content highlights how the company’s platform supports the unique challenges of nonprofit and charitable organizations. </p></li>
 </ul>
