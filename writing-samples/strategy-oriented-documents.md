@@ -17,7 +17,7 @@ The strategy-based documents shared represent a small sample of those I produced
   <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Diagram-documentation process-complexSystemspdf.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Documentation Process Workflow</span></strong></a> <p style="margin: -0.3rem 0 0 0; font-size: .95rem; line-height: 1.4;">This diagram outlines an end-to-end documentation workflow from request to publishing and every step in between. It provides teams with a clear picture of responsibilities, handoffs, and approval points, helping maintain alignment and expectations across an organization.</p></li>
   
-<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Playbook-Commercial Demos_complexSystems.pdf
+<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Commercial-Playbook-complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Playbook - Customer Demos - Complex Systems</span></strong></a>
  <p style="margin: .2rem 0 0 .1rem; font-size: .95rem; line-height: 1.4;">Developed to ensure a consistent and effective customer demo experience, this playbook outlines the best practices and procedures teams are expected to follow when delivering product demonstrations. This version reflects the draft that was still in review.</p></li>  
 
