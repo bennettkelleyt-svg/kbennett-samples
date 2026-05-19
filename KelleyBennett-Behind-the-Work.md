@@ -9,6 +9,7 @@ nav_order: 3
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Kelley Bennett: Behind the Work </h1>
 This page offers a look into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
 
+
 <h2 style="clear:both; margin-top:0;">What I Do</h2>
 I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms — basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
 
