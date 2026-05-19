@@ -7,7 +7,7 @@ nav_order: 5
 
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Intranet Articles</h1>
 
-I wrote these articles for a company intranet to explain commonly unfamiliar or misunderstood topics and support more professional communication.
+I wrote these articles for a company intranet to explain topics that are often unfamiliar or misunderstood and to support more professional communication across teams.
 
 <p><span style="color:#7F7F7F; font-weight:700;">Click an article title below to display the corresponding content.</span></p>
 
