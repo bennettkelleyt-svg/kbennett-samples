@@ -19,7 +19,7 @@ The strategy-based documents shared here represent a small sample of those I pro
   
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Commercial-Playbook-complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">Playbook - Customer Demos - Complex Systems</span></strong></a>
- <p style="margin: .2rem 0 0 .1rem; font-size: .95rem; line-height: 1.4;">Developed to ensure a consistent and effective customer demo experience, this playbook outlines the best practices and procedures teams are expected to follow when delivering product demonstrations. This version reflects the draft that was still in review.</p></li>  
+ <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">Developed to ensure a consistent and effective customer demo experience, this playbook outlines the best practices and procedures teams are expected to follow when delivering product demonstrations. This version reflects the draft that was still in review.</p></li>  
 
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/strategic-documents/Product Reqs_complexSystems.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">PRD - Online Help - Complex Systems</span></strong></a> <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">To advance the implementation of the new online help system, I created this product requirements document to define what was needed so the work could be included in a future sprint. The original version of this PRD was developed for Confluence but later exported to Word, redacted, and then converted to a PDF. </p></li>
