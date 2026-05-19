@@ -11,7 +11,7 @@ This page offers a look into what's "behind" the work I do: how I think, how I w
 
 
 <h2 style="clear:both; margin-top:3rem;">What I Do</h2>
-I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms — basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
+I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across SaaS, enterprise software, healthcare tech, automation platforms. Basically, if it has an API, a workflow, or a “we really should document this,” I’ve probably touched it.
 
 I’m the person who opens the thing, clicks the buttons, and asks, “Okay, but what really happens here?” I like being the one to ask the questions no one else wants to ask, then use the answers to create content readers understand.
 
@@ -27,7 +27,7 @@ Finally, although collaboration is central to my work, I’m also highly indepen
 
 
 ## How I See Documentation
-I view documentation as a bridge that connects and supports the way a system is built and the way it’s used. One of the advantages I bring to every project is approaching a product as a blank slate — much like a first time user would. That perspective helps me focus on explaining the context behind a task, because when users understand the “why” of a task or feature, the workflow feels clearer and the functionality makes more sense.
+I view documentation as a bridge that connects and supports the way a system is built and the way it’s used. One of the advantages I bring to every project is approaching a product as a blank slate, much like a first time user would. That perspective helps me focus on explaining the context behind a task, because when users understand the “why” of a task or feature, the workflow feels clearer and the functionality makes more sense.
 
 At the end of the day, my work always comes back to the user. By putting myself in their place and seeing things from their perspective, I want to make sure the content I create is accurate, appropriate, and genuinely helpful. When documentation truly works for the user, it doesn't just explain the product; it shapes how they feel about using it and the value it brings to their work.
 
