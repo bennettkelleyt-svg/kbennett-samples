@@ -24,7 +24,7 @@ Some of my more recent work is confidential due to employer requirements, so thi
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
-## More About the Writer
+## About the Writer
 
 <img src="/kbennett-samples/images/landingpage imageOvalVing.png"
      alt="tech writer"
@@ -32,9 +32,8 @@ I’ve also developed multiple online help systems and knowledge bases that live
      
 Learn more about me as a writer and teammate by visiting the [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and the [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio.
 
-
-<h2 style="clear:both; margin-top:4.5rem;">Contact Details</h2>
-
 If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 
+
+> **NOTES:** <span style="font-size: 0.9rem;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/](https://just-the-docs.github.io/just-the-docs/)) and the Jekyll static‑site generator, hosted on GitHub Pages. 
 
