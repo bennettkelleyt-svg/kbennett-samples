@@ -2,13 +2,13 @@
 title: "Portfolio Overview"
 nav_order: 1
 ---
+#Overview
+I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
 
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
      style="float:right; width:280px; border-radius:6px;" />
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
-
-I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
 
 My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. The samples here are meant to reflect that approach across the projects I'm able to share publicly.
 
