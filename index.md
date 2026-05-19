@@ -6,7 +6,8 @@ nav_order: 1
 
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
 
-I’m a senior technical writer with experience across SaaS, automation platforms, and healthcare tech. My work focuses on clarity, structure, and making complex information easier for people to understand and use. My portfolio offers a selected sampling of my work, including user guides, API documentation, quick-reference materials, case studies, and more.I’m based on the Gulf Coast of Florida and built this portfolio to share a few of the projects I’m able to make public.
+I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
+My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. This portfolio includes the projects can share publicly and is meant to offer a clear sense of how I think and work.
 
 > **Notes**
 >-   Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and in this portfolio.
