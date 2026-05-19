@@ -19,7 +19,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 >- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 >- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
-<img src="/kbennett-samples/images/landingpage imageVing.png"
+<img src="/kbennett-samples/images/landingpage imageVinga.png"
      alt="doc types"
       style="float:left; width:350px; border-radius:6px; margin-top:.0rem;" />
 
