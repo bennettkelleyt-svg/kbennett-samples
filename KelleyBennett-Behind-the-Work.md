@@ -36,7 +36,7 @@ My interactions with AI are generally limited to using it as a brainstorming par
 The writing itself, including the voice, structure, decisions, and final content, is entirely my own. I continue to explore where AI can be helpful, but its role in my writing process remains deliberately limited.
 
 
-<img src="/kbennett-samples/images/landingpage imageVing.png"
+<img src="/kbennett-samples/images/landingpage imageOvalVing2.png"
      alt="doc types"
       style="float:right; width:350px; border-radius:6px; margin-top:.0rem;" />
 ## What I Deliver
