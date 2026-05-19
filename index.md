@@ -11,27 +11,18 @@ I'm a senior technical writer working remotely from Florida's Gulf Coast. My bac
 My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. This portfolio includes the projects I can share publicly and is meant to offer a clear sense of how I think and work.
 
 > **Notes**
->-   Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and in this portfolio.
-> <span style="font-size: 0.9rem;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
->- <span style="font-size: 0.9rem;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
->  - <span style="font-size: 0.9rem;"> For the purposes of categorizing documents in this portfolio, "Complex systems" refers to specialized or niche industries that don’t fit into the other industry categories used.
->  - <span style="font-size: 0.9rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
+>- <span style="font-size: 0.8rem;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and in this portfolio.
+>- <span style="font-size: 0.8rem;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
+>  - <span style="font-size: 0.8rem;"> For the purposes of categorizing documents in this portfolio, "Complex systems" refers to specialized or niche industries that don’t fit into the other industry categories used.
+>  - <span style="font-size: 0.8rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
-## About the Writer
 
-<img src="/kbennett-samples/images/landingpage imageOvalVing.png"
-     alt="tech writer"
-     style="float:left; width:280px; border-radius:6px;" />
-     
-Learn more about me as a writer and teammate by visiting the [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and the [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio.
-
-If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
-
-
-> **NOTES:** <span style="font-size: 0.9rem;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/](https://just-the-docs.github.io/just-the-docs/)) and the Jekyll static‑site generator, hosted on GitHub Pages. 
+> **NOTES:**
+> -<span style="font-size: 0.8rem;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/](https://just-the-docs.github.io/just-the-docs/)) and the Jekyll static‑site generator, hosted on GitHub Pages.
+> > <span style="font-size: 0.8rem;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 
