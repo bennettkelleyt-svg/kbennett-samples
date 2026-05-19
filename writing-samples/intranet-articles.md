@@ -66,7 +66,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
   <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
 
 
-As a technical writer, I’m generally overly attentive to the grammar and speech of others — okay, yes, I’ll say it: I’m judgy.
+As a technical writer, I’m generally overly attentive to the grammar and speech of others. Okay, yes, I’ll say it: I’m judgy.
 
 <img src="/kbennett-samples/images/wordnerd1.png"
      alt="WordNerd"
@@ -85,7 +85,7 @@ For this article, I thought it might be helpful, and maybe even a little fun, to
      style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
 
 
-These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them — you might be surprised at how frequently they occur.
+These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them. You might be surprised at how frequently they occur.
 
 Some say caring about grammar is passé. However, good grammar is the foundation of technical accuracy, which, in our line of work here at THIS COMPANY, is a critical element of our success.
 
