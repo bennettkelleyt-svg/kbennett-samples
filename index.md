@@ -7,7 +7,9 @@ nav_order: 1
      alt="doc types"
       style="float:right; width:350px; border-radius:6px; margin-top:.0rem;" />
 
-
+<img src="/kbennett-samples/images/chaos to clarity.png"
+     alt="tech writer"
+     style="float:left; width:280px; border-radius:6px;" />
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
 
 I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
@@ -20,7 +22,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 >- <span style="font-size: 0.8rem;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 >- <span style="font-size: 0.8rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
-<img src="/kbennett-samples/images/landingpage imageOvalVing.png"
+<img src="/kbennett-samples/images/landingpage imageOvalVing2.png"
      alt="tech writer"
      style="float:left; width:280px; border-radius:6px;" />
      
