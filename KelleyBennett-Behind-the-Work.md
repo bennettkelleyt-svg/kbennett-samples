@@ -6,7 +6,7 @@ nav_order: 3
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
      alt="Kelley Bennett"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
-# Kelley Bennett: Behind the Work
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Kelley Bennett: Behind the Work </h1>
 This page offers a look into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
 
 <h2 style="clear:both; margin-top:0;">What I Do</h2>
