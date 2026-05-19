@@ -19,8 +19,9 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 >- <span style="font-size: 0.8rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
 <img src="/kbennett-samples/images/landingpage imageVing.png"
-     alt="tech writer"
-     style="float:left; width:280px; border-radius:6px;" />
+     alt="doc types"
+      style="float:right; width:350px; border-radius:6px; margin-top:.0rem;" />
+
      
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
