@@ -41,6 +41,5 @@ Over the course of my career, I’ve designed, built, and rebuilt documentation 
 
 No matter the project or audience, what I deliver stays consistent: content that's clear, accurate, and built to last. 
 
-> **NOTES:**
-> - <span style="font-size: 0.9rem;">For a closer look at the types of content I've produced, visit the [Writing Samples](/kbennett-samples/writing-samples/) section of this portfolio.
-> - <span style="font-size: 0.9rem;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/](https://just-the-docs.github.io/just-the-docs/)) and the Jekyll static‑site generator, hosted on GitHub Pages. 
+> **NOTE:** <span style="font-size: 0.9rem;">For a closer look at the types of content I've produced, visit the [Writing Samples](/kbennett-samples/writing-samples/) section of this portfolio.
+
