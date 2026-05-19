@@ -124,7 +124,7 @@ Founded in 1957 as a not for profit organization, Goodwill Industries of Middle 
 #### **The Challenge**
 
 Approximately 35% of Goodwill’s workforce turns over annually as clients move into jobs within their communities. 
-This constantly shifting workforce — and the documents that come with it — generate a significant amount of paper, 
+This constantly shifting workforce, and the documents that come with it, generate a significant amount of paper, 
 leading to overflowing filing cabinets and the risk of misplaced records. 
 
 <img src="/kbennett-samples/images/Goodwill-BEFORE1.png"
@@ -151,7 +151,7 @@ By implementing electronic Document Management and Process Automation, GIMT elim
 <p style="background-color:#156082; color:#FFFFFF; padding:10px; border-radius:6px; font-weight:700;">
 Results at a Glance 
   
-25% — Reduction in time spent on paperwork 70% — Reduction in interdepartmental inquiries $100,000 — Annual savings
+25% reduction in time spent on paperwork, 70% reduction in interdepartmental inquiries, $100,000 in annual savings
 “Our net income is up, we are able to do more with less, and Goodwill is growing.” ED O’KELLEY Senior Director of Technology Solutions, Goodwill Industries of Middle Tennessee, Inc.
 
 </p>
