@@ -3,6 +3,10 @@ title: "Portfolio Overview"
 nav_order: 1
 ---
 
+<img src="/kbennett-samples/images/landingpage imageVing.png"
+     alt="doc types"
+      style="float:right; width:350px; border-radius:6px; margin-top:.0rem;" />
+
 
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
 
@@ -16,9 +20,9 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 >- <span style="font-size: 0.8rem;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 >- <span style="font-size: 0.8rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
-<img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
-     alt="Kelley Bennett"
-     style="float:left; width:100px; margin:0.75rem 1rem 1rem 0; border-radius:6px;" />
+<img src="/kbennett-samples/images/landingpage imageOvalVing.png"
+     alt="tech writer"
+     style="float:left; width:280px; border-radius:6px;" />
      
 ## What’s Included (and What’s Not)
 Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
