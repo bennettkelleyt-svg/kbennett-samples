@@ -5,7 +5,7 @@ nav_order: 1
 
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
-     style="float:right; width:250px; border-radius:6px; margin-top:.75rem; margin-left:.5rem;" />
+     style="float:right; width:250px; border-radius:6px; margin-top:.75rem; margin-left:-.5rem;" />
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Overview</h1>
 
 
