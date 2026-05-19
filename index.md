@@ -13,7 +13,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 > **Notes**
 >- <span style="font-size: 0.8rem;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and in this portfolio.
 >- <span style="font-size: 0.8rem;"> As you review samples across this portfolio, you'll notice that each document link follows a consistent naming structure: document type, relevant topic or context, and, where applicable, the industry — for example, "Developer Guide - API - Complex Systems."
->- <span style="font-size: 0.8rem;"> For the purposes of categorizing documents in this portfolio, "Complex systems" refers to specialized or niche industries that don’t fit into the other industry categories used.
+>- <span style="font-size: 0.8rem;"> The documents label 'Complex Systems' refers to specialized or niche industries such as autonomous technology, where a broader industry label doesn't quite fit..
 >- <span style="font-size: 0.8rem; font-style: italic;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
