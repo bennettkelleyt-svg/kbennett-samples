@@ -21,7 +21,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
 <img src="/kbennett-samples/images/landingpage imageVinga.png"
      alt="doc types"
-      style="float:left; width:275px; border-radius:6px; margin-top:.0rem;" />
+      style="float:left; width:225px; border-radius:6px; margin-top:.0rem;" />
 
      
 ## What’s Included (and What’s Not)
