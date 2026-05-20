@@ -32,4 +32,4 @@ I’ve also developed multiple online help systems and knowledge bases that live
 
 
 ---
-<em>Built with <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank">Just the Docs</a> · Hosted on GitHub Pages</em>
+<em>This site is built with the <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank"> and the Jekyll static‑site generator, hosted on GitHub Pages. </em>
