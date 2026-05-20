@@ -39,7 +39,7 @@ The writing itself, including the voice, structure, decisions, and final content
 
 <img src="/kbennett-samples/images/landingpage imageOvalVing3a.png"
      alt="doc types"
-      style="float:right; width:225px; border-radius:6px; margin-top:.0rem;" />
+      style="float:right; width:275px; border-radius:6px; margin-top:2rem;" />
 ## What I Deliver
 Over the course of my career, I’ve designed, built, and rebuilt documentation ecosystems from the ground up: online help systems, knowledge bases, and content libraries that teams and users actually rely on. I’ve also created supporting content, including workflow documentation, product requirements, and technical content for engineers, developers, and anyone else involved in building the product.
 
