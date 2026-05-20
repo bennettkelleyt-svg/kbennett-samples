@@ -15,3 +15,15 @@ nav.breadcrumb-nav a {
 .main-content a:visited {
   color: #0070C0 !important;
 }
+@media (max-width: 768px) {
+  img[style*="float:left"],
+  img[style*="float: left"],
+  img[style*="float:right"],
+  img[style*="float: right"] {
+    float: none !important;
+    display: block !important;
+    width: 80% !important;
+    max-width: 300px !important;
+    margin: 0 auto 1rem auto !important;
+  }
+}
