@@ -15,7 +15,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
 > **Notes**
 >- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  [Recommendations](https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0) section of my [LinkedIn profile](https://www.linkedin.com/in/kelley-bennett-742755b/) and in this portfolio.
->- <span style="font-size: 0.8rem !important;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/](https://just-the-docs.github.io/just-the-docs/)) and the Jekyll static‑site generator, hosted on GitHub Pages.
+>- <span style="font-size: 0.8rem !important;">This site is built with the [Just the Docs theme]([/kbennett-samples/writing-samples/]([https://just-the-docs.github.io/just-the-docs/)](https://just-the-docs.com/)) and the Jekyll static‑site generator, hosted on GitHub Pages.
 >- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 >- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
