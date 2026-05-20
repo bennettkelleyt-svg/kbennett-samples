@@ -17,7 +17,11 @@ These guides provide simple, at‑a‑glance instructions to help users complete
   
   <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/QRG-Admin_insurance.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">QRG-Admin Mode-Insurance</span></strong></a> <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">This guide provides quick-start information for working in the platform's Admin mode.</p></li>
-  
+<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/QRG-Create Hospice Inquiry_healthcare.pdf
+" target="_blank"><strong><p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">QRG-Creating an Inquiry-Healthcare - HIPAA Compliance - Healthcare</span></strong></a>
+ <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">Our busy hospice staff needed a quick reference guide that would give them at-a-glance instructions for how to create an Inquiry (that is, the initial intake record used to determine the appropriate care program for a patient).
+</p></li>    
+
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/QRG-Hospice Timesheets_healthcare.pdf
 " target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">QRG - Timesheets - Healthcare </span></strong></a> <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">This overview explains the functions available in the Timesheet feature and how to quickly add and update timesheet entries. </p></li>
    
