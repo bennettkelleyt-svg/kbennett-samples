@@ -15,7 +15,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
 
 > **Notes**
->- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the  the <a href="https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0" target="_blank">Recommendations</a> section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a> and in this portfolio.
+>- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page and the Recommendations section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a> and in this portfolio.
 >- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
 >- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
 
