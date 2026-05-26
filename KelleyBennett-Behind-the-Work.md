@@ -18,7 +18,7 @@ I’m the person who opens the thing, clicks the buttons, and asks, “Okay, but
 
 
 ## How I Work
-At the heart of my career as a technical writer is collaboration, something I not only believe in but genuinely enjoy. That means working closely with the right people at the right time and supporting my teammates. Engineers, PMs, designers, sales, support teams, and others with a stake in the work all play a part in shaping the best content possible.
+At the heart of my career as a technical writer is collaboration, something I not only believe in but genuinely enjoy. That means working closely with the right people at the right time and supporting my teammates. Engineers, PMs, designers, sales, support teams, and other stakeholders all play a role in shaping the best content possible.
 
 And while it's not always an organization’s common practice, I always hope for collaboration to begin early in the process, not just at the end when it's time to document what's already been built. The earlier I understand the "why" behind a feature or function, the better the content I can create for users.
 
