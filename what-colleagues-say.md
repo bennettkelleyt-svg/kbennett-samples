@@ -24,7 +24,7 @@ nav_order: 4
 <p class="rec-role" style="font-style: normal;">Engineering Software Product Leader | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a></p>
 <p class="rec-role"><em>Engineering & Product Partner</em></p>
       </div>
-      <<blockquote class="rec-highlight" style="font-style: italic;">
+      <blockquote class="rec-highlight" style="font-style: italic;">
         "Kelley has a knack for bringing structure and clarity to complex work, introducing best practices in a way that feels seamless and easy for teams to adopt."
       </blockquote>
       <button class="rec-toggle" aria-expanded="false">
