@@ -1,6 +1,6 @@
 ---
 title: What Colleagues Say
-nav_order: 1
+nav_order: 4
 ---
 
 <!-- ============================================================
@@ -170,9 +170,9 @@ What stood out most to me was her ability to quickly understand the needs of sta
     color: var(--rec-ink);
   }
 
-  .rec-grid {
+ .rec-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.25rem;
   }
 
