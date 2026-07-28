@@ -3,7 +3,7 @@
 > This portfolio is licensed under [CC BY-NC-ND 4.0](LICENSE) — you're welcome to browse or share a link to this repository, but please **DO NOT download, copy, reuse, or repost any content** without permission.
 
 
-## Overviews
+## Overview
 I appreciate you taking the time to explore these work samples.  
 These examples represent some of the types of technical writing I’ve produced over the years, including user guides, API documentation, quick‑reference materials, and case studies.
 
