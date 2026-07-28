@@ -2,7 +2,6 @@
 title: "Portfolio Overview"
 nav_order: 1
 ---
-<p style="font-size: 0.75rem; font-style: italic; color: #888; margin-bottom: 0;">Licensed under <a href="https://github.com/bennettkelleyt-svg/kbennett-samples/blob/main/LICENSE">CC BY-NC-ND 4.0</a> — please do not download, copy, reuse, or repost without permission.</p>
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
      style="float:right; width:200px; border-radius:6px; margin-top:0rem; margin-left:0rem;" />
