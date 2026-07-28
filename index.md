@@ -1,8 +1,9 @@
 ---
-title: "Overview"
+title: "Portfolio Overview"
 nav_order: 1
 ---
-
+> **License**
+>- <span style="font-size: 0.8rem !important; font-style: italic; color: #555;">This portfolio is licensed under [CC BY-NC-ND 4.0](https://github.com/bennettkelleyt-svg/kbennett-samples/blob/main/LICENSE) — you're welcome to browse or share a link to this repository, but please **DO NOT download, copy, reuse, or repost any content** without permission.</span>
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
      style="float:right; width:200px; border-radius:6px; margin-top:0rem; margin-left:0rem;" />
@@ -15,9 +16,9 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
 
 > **Notes**
->- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio and the <a href="https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer"> Recommendations</a> section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a>.
->- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).
->- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.
+>- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio and the <a href="https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer"> Recommendations</a> section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a>.</span>
+>- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).</span>
+>- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.</span>
 
 <img src="/kbennett-samples/images/landingpage imageVinga.png"
      alt="doc types"
