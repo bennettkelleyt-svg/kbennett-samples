@@ -1,7 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
-
 plugins:
   - jekyll-seo-tag
-
 title: Kelley Bennett | Writing Portfolio
 description: Portfolio samples
+
+footer_content: "Licensed under <a href=\"https://github.com/bennettkelleyt-svg/kbennett-samples/blob/main/LICENSE\">CC BY-NC-ND 4.0</a>. This site uses <a href=\"https://github.com/just-the-docs/just-the-docs\">Just the Docs</a>, a documentation theme for Jekyll."
+
