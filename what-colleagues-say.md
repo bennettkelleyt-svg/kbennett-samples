@@ -41,18 +41,21 @@ What stood out most to me was her ability to quickly understand the needs of sta
     <!-- Card 2 -->
     <article class="rec-card">
       <div class="rec-meta">
-        <p class="rec-name"><a href="[LINKEDIN_PROFILE_URL]" target="_blank" rel="noopener noreferrer">[Name]</a></p>
-        <p class="rec-role">[Title | Company]</p>
+        <p class="rec-name"><a href="https://www.linkedin.com/in/cheryl-minkema/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BhqCjT1CGToarGVL%2BjSt5Ew%3D%3D" target="_blank" rel="noopener noreferrer">Cheryl Minkema</a></p>
+        <p class="rec-role" style="font-style: normal;">Senior Manager, Technical Communications | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a></p>
+        <p class="rec-role"><em>Leadership • Strategic Thinking</em></p>
       </div>
-      <blockquote class="rec-highlight">
-        "[Highlight quote.]"
+     <blockquote class="rec-highlight" style="font-style: italic;">
+        "She combines a strategic mindset with a thoughtful, well-structured approach — always anticipating challenges and finding smart ways to meet business needs."
       </blockquote>
       <button class="rec-toggle" aria-expanded="false">
         <span class="rec-toggle-label">Read the full recommendation</span>
         <span class="rec-toggle-icon" aria-hidden="true">▾</span>
       </button>
       <div class="rec-full" hidden>
-        <p>[Full recommendation text.]</p>
+        <p>Kelley reported directly to me for the past 3+ years, and working with her was an absolute pleasure. She combines a strategic mindset with a thoughtful, well-structured approach—always anticipating challenges and finding smart ways to meet business needs. Her documentation was consistently clear and high-quality, and she collaborated seamlessly with stakeholders to ensure nothing fell through the cracks.
+
+Beyond her expertise, Kelley is an incredibly supportive and dependable teammate, always ready to jump in and help wherever needed. Her professionalism, positivity, and reliability make her a standout on any team, and I’d wholeheartedly recommend her for any future role.</p>
       </div>
     </article>
 
