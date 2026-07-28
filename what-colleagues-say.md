@@ -1,6 +1,5 @@
 ---
 title: What Colleagues Say
-parent: "Kelley Bennett: Behind the Work"
 nav_order: 1
 ---
 
@@ -22,10 +21,10 @@ nav_order: 1
     <article class="rec-card">
       <div class="rec-meta">
         <p class="rec-name"><a href="https://www.linkedin.com/in/klara-lucy-oberhollenzer/..." target="_blank" rel="noopener noreferrer">Klara Lucy Oberhollenzer</a></p>
-<p class="rec-role">Engineering Software Product Leader | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a></p>
+<p class="rec-role" style="font-style: normal;">Engineering Software Product Leader | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a></p>
 <p class="rec-role"><em>Engineering & Product Partner</em></p>
       </div>
-      <blockquote class="rec-highlight">
+      <<blockquote class="rec-highlight" style="font-style: italic;">
         "Kelley has a knack for bringing structure and clarity to complex work, introducing best practices in a way that feels seamless and easy for teams to adopt."
       </blockquote>
       <button class="rec-toggle" aria-expanded="false">
@@ -33,9 +32,9 @@ nav_order: 1
         <span class="rec-toggle-icon" aria-hidden="true">▾</span>
       </button>
       <div class="rec-full" hidden>
-        <p>I had the pleasure of working with Kelley as she partnered closely with our UX and engineering teams. Kelley has a knack for bringing structure and clarity to complex work, introducing best practices in a way that feels seamless and easy for teams to adopt.
+        <p>"I had the pleasure of working with Kelley as she partnered closely with our UX and engineering teams. Kelley has a knack for bringing structure and clarity to complex work, introducing best practices in a way that feels seamless and easy for teams to adopt.
 
-What stood out most to me was her ability to quickly understand the needs of stakeholders, adapt to the realities of the organization, and help move work forward. She pairs strong technical writing skills with a practical, collaborative approach and stays focused on delivering meaningful outcomes for both the team and the business as a whole. </p>
+What stood out most to me was her ability to quickly understand the needs of stakeholders, adapt to the realities of the organization, and help move work forward. She pairs strong technical writing skills with a practical, collaborative approach and stays focused on delivering meaningful outcomes for both the team and the business as a whole." </p>
       </div>
     </article>
 
