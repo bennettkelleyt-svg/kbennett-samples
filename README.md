@@ -1,4 +1,7 @@
 # Technical Writing Samples
+> [!NOTE]
+> This portfolio is licensed under [CC BY-NC-ND 4.0](LICENSE) — you're welcome to browse or share a link to this repository, but please **DO NOT download, copy, reuse, or repost any content** without permission.
+
 
 ## Overviews
 I appreciate you taking the time to explore these work samples.  
