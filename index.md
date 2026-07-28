@@ -2,7 +2,7 @@
 title: "Portfolio Overview"
 nav_order: 1
 ---
-> **License**
+> ***License***
 >- <span style="font-size: 0.8rem !important; font-style: italic; color: #555;">This portfolio is licensed under [CC BY-NC-ND 4.0](https://github.com/bennettkelleyt-svg/kbennett-samples/blob/main/LICENSE) — you're welcome to browse or share a link to this repository, but please **DO NOT download, copy, reuse, or repost any content** without permission.</span>
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
