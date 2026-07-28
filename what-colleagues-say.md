@@ -222,16 +222,10 @@ What stood out most to me was her ability to quickly understand the needs of sta
     border: none;
     padding: 0.2rem 0;
     margin-top: auto;
-    font-size: 0.85rem;
+    font-size: 0.78rem;
     font-weight: 600;
-    color: var(--rec-accent);
+    color: #5b9bd5;
     cursor: pointer;
-  }
-  .rec-toggle:hover { text-decoration: underline; }
-  .rec-toggle:focus-visible {
-    outline: 2px solid var(--rec-accent);
-    outline-offset: 3px;
-    border-radius: 3px;
   }
   .rec-toggle-icon {
     display: inline-block;
