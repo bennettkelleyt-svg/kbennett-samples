@@ -7,7 +7,7 @@ nav_order: 1
 <img src="/kbennett-samples/images/chaos to clarity.png"
      alt="tech writer"
      style="float:right; width:200px; border-radius:6px; margin-top:0rem; margin-left:0rem;" />
-<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Overview</h1>
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
 
 
 I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
