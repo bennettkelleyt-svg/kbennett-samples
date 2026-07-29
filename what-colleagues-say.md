@@ -3,17 +3,9 @@ title: What Colleagues Say
 nav_order: 4
 ---
 
-<!-- ============================================================
-  RECOMMENDATIONS SECTION
-  Fill in each card with real name / title / highlight quote / full text.
-  Update the LINKEDIN_URL constant near the bottom of the script.
-============================================================ -->
+<h1 style="color:#0070C0; font-weight: 700; font-size: 1.5rem !important;">What Colleagues Say</h1>
 
 <section class="rec-section" aria-label="Recommendations">
-  <div class="rec-header">
-    <p class="rec-eyebrow">What colleagues say</p>
-    <h2 class="rec-title">Recommendations</h2>
-  </div>
 
   <div class="rec-grid">
 
