@@ -4,6 +4,9 @@ nav_order: 4
 ---
 
 <h1 style="color:#0070C0; font-weight: 700; font-size: 1.5rem !important;">What Colleagues Say</h1>
+<p>Throughout my career, I've had the good fortune to work with some incredibly talented and thoughtful people. I'm honored that along the way several of them have taken the time to share their experiences working with me.
+
+Below is a selection of recommendations from managers, teammates, and colleagues I've partnered with in recent years. I appreciate their generous comments and hope they reflect the trust and confidence I’ve earned through my work.</p>
 
 <section class="rec-section" aria-label="Recommendations">
 
