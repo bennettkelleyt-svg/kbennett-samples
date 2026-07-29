@@ -28,7 +28,3 @@ Some of my more recent work is confidential due to employer requirements, so thi
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
-
-
----
-<em><span style="font-size: 0.8rem !important;">This site is built with <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank">Just the Docs</a> theme and the Jekyll static-site generator, hosted on GitHub Pages.</span></em>
