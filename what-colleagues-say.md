@@ -181,7 +181,7 @@ Below is a selection of recommendations from managers, teammates, and colleagues
   .rec-grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1.25rem;
+    gap: .6rem;
   }
 
   .rec-card {
