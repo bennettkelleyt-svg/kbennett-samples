@@ -156,7 +156,7 @@ Below is a selection of recommendations from managers, teammates, and colleagues
 
     max-width: 960px;
     margin: 0 auto;
-    padding: 3rem 1.25rem;
+    padding: 0.5rem 1.25rem 3rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     color: var(--rec-ink);
   }
