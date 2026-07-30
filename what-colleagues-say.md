@@ -16,7 +16,7 @@ Below is a selection of recommendations from managers, teammates, and colleagues
     <article class="rec-card">
       <div class="rec-meta">
         <p class="rec-name"><a href="https://www.linkedin.com/in/klara-lucy-oberhollenzer/" target="_blank" rel="noopener noreferrer">Klara Lucy Oberhollenzer</a></p>
-        <p class="rec-role" style="font-style: normal;">Engineering Software Product Leader | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a></p>
+        <p class="rec-role" style="font-style: normal;">Engineering Software Product Leader | <a href="https://torc.ai/" target="_blank" rel="noopener noreferrer">Torc Robotics</a> (via Daimler Truck Holding AG)</p>
         <p class="rec-role"><em>Engineering &amp; Product Partner</em></p>
       </div>
       <blockquote class="rec-highlight" style="font-style: italic;">
