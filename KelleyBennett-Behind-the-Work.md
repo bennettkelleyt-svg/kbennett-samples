@@ -44,6 +44,6 @@ The writing itself, including the voice, structure, decisions, and final content
 ## What I Deliver
 Over the course of my career, I’ve designed, built, and rebuilt documentation ecosystems from the ground up: online help systems, knowledge bases, and content libraries that teams and users actually rely on. I’ve also created supporting content, including workflow documentation, product requirements, and technical content for engineers, developers, and anyone else involved in building the product.
 
-No matter the project or audience, what I deliver stays consistent: content that's clear, accurate, and built to last. 
+No matter the project or audience, what I deliver stays consistent: content that keeps working even as the product evolves. 
 
 > **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">For a closer look at the types of content I've produced, visit the [Writing Samples](/kbennett-samples/writing-samples/) section of this portfolio.
