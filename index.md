@@ -24,7 +24,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
      
 ## What’s Included (and What’s Not)
-Some of my more recent work is confidential due to employer requirements, so this collection includes a mix of older non‑proprietary pieces and a few newer redacted samples.
+Some of my more recent work is confidential due to employer requirements, so this collection of samples includes a mix of older non‑proprietary pieces and a few newer redacted samples.
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
