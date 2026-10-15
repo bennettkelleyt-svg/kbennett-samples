@@ -10,8 +10,6 @@ nav_order: 1
 
 I'm a senior technical writer working remotely from Florida's Gulf Coast. My background spans SaaS and enterprise platforms, healthcare‑related applications, automated workflow software, and robotic autonomy technology.
 
-My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. The samples here are meant to reflect that approach across the projects I'm able to share publicly.
-
 My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. [The samples here](writing-samples/) are meant to reflect that approach across the projects I'm able to share publicly.
 
 
