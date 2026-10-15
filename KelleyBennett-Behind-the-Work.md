@@ -18,13 +18,11 @@ I’m the person who opens the thing, clicks the buttons, and asks, “Okay, but
 
 
 ## How I Work
-At the heart of my career as a technical writer is collaboration, something I not only believe in but genuinely enjoy. That means working closely with the right people at the right time and supporting my teammates. Engineers, PMs, designers, sales, support teams, and other stakeholders all play a role in shaping the best content possible.
+I believe collaboration early in the planning process is essential because it helps me understand the product and its users from different perspectives. Working with engineers, product managers, designers, and other stakeholders helps clarify what features are needed and why, as well as what documentation may be required. 
 
-And while it's not always an organization’s common practice, I always hope for collaboration to begin early in the process, not just at the end when it's time to document what's already been built. The earlier I understand the "why" behind a feature or function, the better the content I can create for users.
+With that collaborative foundation in place, I can take ownership of my part. At that point, I can sort out what's needed and move projects forward without significant direction. 
 
-In addition to my focus on collaboration, I have a superpower that helps me produce my best work: I can translate "engineer speak" into something the average, perhaps less technical, person can understand. It's a challenge I've faced and enjoyed for years.
-
-Finally, although collaboration is central to my work, I’m also highly independent: comfortable sorting out what’s needed and moving the work forward without a lot of direction. I'm a workhorse who just likes to get things done right, keep things moving, and meet deadlines.
+As a highly independent workhorse, I like to get things done right and on time. I’m also committed to being a valuable, supportive, and reliable team member.
 
 
 ## How I See Documentation
