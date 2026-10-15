@@ -32,9 +32,11 @@ I view documentation as a bridge that connects and supports the way a system is 
 At the end of the day, my work always comes back to the user. By putting myself in their place and seeing things from their perspective, I want to make sure the content I create is accurate, appropriate, and genuinely helpful. When documentation truly works for the user, it doesn't just explain the product; it shapes how they feel about using it and the value it brings to their work.
 
 ## Where AI Fits In
-My interactions with AI are generally limited to using it as a brainstorming partner and research assistant; exploring different approaches before deciding how I want to communicate an idea; and sometimes as a second set of eyes for proofreading or clarity checks.
+I generally use AI as a brainstorming "partner" and research "assistant"; exploring different approaches before deciding how I want to communicate an idea; and sometimes as a second set of eyes for proofreading or clarity checks.
 
 The writing itself, including the voice, structure, decisions, and final content, is entirely my own. I continue to explore where AI can be helpful, but its role in my writing process remains deliberately limited.
+
+> **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">I'm currently taking courses to learn more about the best ways and times to use AI.
 
 
 <img src="/kbennett-samples/images/landingpage imageOvalVing3a.png"
