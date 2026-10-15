@@ -12,6 +12,8 @@ I'm a senior technical writer working remotely from Florida's Gulf Coast. My bac
 
 My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. The samples here are meant to reflect that approach across the projects I'm able to share publicly.
 
+My work focuses on clarity, logical structure, and explaining complex systems in ways people can actually understand and use. [The samples here](writing-samples/) are meant to reflect that approach across the projects I'm able to share publicly.
+
 
 > **Notes**
 >- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/kbennett-samples/KelleyBennett-Behind-the-Work) page in this portfolio and the <a href="https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer"> Recommendations</a> section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a>.</span>
@@ -24,7 +26,7 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
      
 ## What’s Included (and What’s Not)
-Some of my more recent work is confidential due to employer requirements, so this collection of samples includes a mix of older non‑proprietary pieces and a few newer redacted samples.
+Some of my more recent work is confidential due to employer requirements, so [this collection of samples](writing-samples/) includes a mix of older non‑proprietary pieces and a few newer redacted samples.
 
 I’ve also developed multiple online help systems and knowledge bases that live behind company firewalls or are built directly into products, so they aren’t publicly accessible.
 
