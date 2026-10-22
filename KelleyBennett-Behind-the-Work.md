@@ -17,19 +17,17 @@ I'm the person who opens the thing, clicks the buttons, and asks, "Okay, but wha
 There are technical writers who enjoy turning complicated systems, messy workflows, and half-explained processes into content people can actually use. That's who I am and what I do.
 
 
-
 ## How I Work
 I believe collaboration early in the planning process is essential because it helps me understand the product and its users from different perspectives. Working with engineers, product managers, designers, and other stakeholders helps clarify what features are needed and why, as well as what documentation may be required. 
 
-With that collaborative foundation in place, I can take ownership of my part. At that point, I can sort out what's needed and move projects forward without significant direction. 
-
-As a highly independent workhorse, I like to get things done right and on time. I’m also committed to being a valuable, supportive, and reliable team member.
+With that collaborative foundation in place, I can take ownership of my part. At that point, I can sort out what's needed and move projects forward without significant direction.  As a highly independent workhorse, I like to get things done right and on time. I’m also committed to being a valuable, supportive, and reliable team member.
 
 
 ## How I See Documentation
-I view documentation as a bridge that connects and supports the way a system is built and the way it’s used. One of the advantages I bring to every project is approaching a product as a blank slate, much like a first time user would. That perspective helps me focus on explaining the context behind a task, because when users understand the “why” of a task or feature, the workflow feels clearer and the functionality makes more sense.
+I view documentation as a bridge between the way a system is built and the way it's used. I approach every project as a blank slate, just like a first-time user. I believe it’s important for a user to understand not only how to complete a task but the context behind it; knowing the why of the tasks allows the workflow and functionality to make sense.
 
-At the end of the day, my work always comes back to the user. By putting myself in their place and seeing things from their perspective, I want to make sure the content I create is accurate, appropriate, and genuinely helpful. When documentation truly works for the user, it doesn't just explain the product; it shapes how they feel about using it and the value it brings to their work.
+When documentation truly works for the user, it doesn’t just explain the product; it shapes how they feel about using it and the value it brings to their work.
+
 
 ## Where AI Fits In
 I generally use AI as a brainstorming "partner" and research "assistant"; exploring different approaches before deciding how I want to communicate an idea; and sometimes as a second set of eyes for proofreading or clarity checks.
