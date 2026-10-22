@@ -30,9 +30,9 @@ When documentation truly works for the user, it doesn’t just explain the produ
 
 
 ## Where AI Fits In
-I generally use AI as a brainstorming "partner" and research "assistant"; exploring different approaches before deciding how I want to communicate an idea; and sometimes as a second set of eyes for proofreading or clarity checks.
+I generally use AI as a brainstorming “partner” and research “assistant,” exploring different approaches before deciding how I want to communicate an idea. And sometimes I use it as a second set of eyes for proofreading or clarity checks.
 
-The writing itself, including the voice, structure, decisions, and final content, is entirely my own. I continue to explore where AI can be helpful, but its role in my writing process remains deliberately limited.
+The writing itself (the voice, structure, decisions, and final content) is entirely my own. While I continue to explore other ways AI can be helpful, its role in my writing process remains deliberately limited.
 
 > **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">I'm currently taking courses to learn more about the best ways and times to use AI.
 
