@@ -3,7 +3,7 @@ title: "Kelley Bennett: Behind the Work"
 nav_order: 4
 ---
 
-<img src="/kbennett-samples/images/kbennett profile pic 4.jpg"
+<img src="/kbennett-samples/images/kbennett profile pic 4.png"
      alt="Kelley Bennett"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
