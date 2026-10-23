@@ -2,7 +2,7 @@
 title: "Portfolio Overview"
 nav_order: 1
 ---
-<img src="/kbennett-samples/images/chaos to clarity.png"
+<img src="/kbennett-samples/images/chaos to claritya.png"
      alt="tech writer"
      style="float:right; width:200px; border-radius:6px; margin-top:0rem; margin-left:0rem;" />
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
