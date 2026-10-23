@@ -1,6 +1,6 @@
 ---
 title: "Kelley Bennett: Behind the Work"
-nav_order: 3
+nav_order: 4
 ---
 
 <img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
