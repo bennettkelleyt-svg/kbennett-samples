@@ -39,7 +39,7 @@ The writing itself (the voice, structure, decisions, and final content) is entir
 
 <img src="/kbennett-samples/images/landingpage imageOvalVing3a.png"
      alt="doc types"
-      style="float:right; width:275px; border-radius:6px; margin-top:2rem;" />
+      style="float:right; width:325px; border-radius:6px; margin-top:2rem;" />
 ## What I Deliver
 Over the course of my career, I've designed, built, and rebuilt documentation from the ground up, including online help, knowledge bases, and content libraries. I've also created workflow documentation, product requirements, and technical content for engineers, developers, and others involved in building and using a product.
 
