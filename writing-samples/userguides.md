@@ -21,7 +21,7 @@ These user guides provide step‑by‑step instructions, support information, an
 <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/user-guides/User Guide-Help Desk Call Log_healthcare.pdf
 " target="_blank"><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">User Guide - Help Desk Call System - Healthcare </span></a><p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">Created to help users quickly learn the new call‑logging system, this guide gives tech support staff the instructions needed to efficiently handle client calls.</p></li>
   
-<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/user-guides/User Guide-Learning Ctr_LMS.pdf
+<li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/user-guides/User Guide_LMS.pdf
 " target="_blank"><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;">User Guide - Learning Center - LMS</span></a>
  <p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">This user guide shows employees how to use the learning center system to search for, access, and request learning resources.</p></li>  
 
