@@ -12,7 +12,7 @@ These guides provide simple, at‑a‑glance instructions to help users complete
 <p><span style="color:#7F7F7F; font-weight:700;">Click a document title below to display the corresponding PDF in a new tab. </span></p>
 
 <ul>
-  <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/Job Aid-Admin-LMS.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;"> Job Aide - System Admins - LMS </span></strong></a><p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">Designed for learning management system administrators, this job aid provides quick guidance for completing common administrative tasks.</p>
+  <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/Job Aid for Admin-LMS.pdf" target="_blank"><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 500; line-height: 1.1;"> Job Aide - System Admins - LMS </span></strong></a><p style="margin: -0.1rem 0 0 0; font-size: .95rem; line-height: 1.4;">Designed for learning management system administrators, this job aid provides quick guidance for completing common administrative tasks.</p>
   </li>
   
   <li style="margin-bottom: 1rem;"><a href="/kbennett-samples/PDF-files/quick-reference/QRG-Admin_insurance.pdf
